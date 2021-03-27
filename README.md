@@ -13,3 +13,4 @@
 * <K번째수> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42748) | [코드](./Programmers/Level1/K번째수/Solution.java)
 * <두 개 뽑아서 더하기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/68644) | [코드](./Programmers/Level1/두개뽑아서더하기/Solution.java)
 * <모의고사> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42840) | [코드](./Programmers/Level1/모의고사/Solution.java)
+* <체육복> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42862) | [코드](./Programmers/Level1/체육복/Solution.java)
