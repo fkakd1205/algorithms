@@ -15,4 +15,5 @@
 * <모의고사> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42840) | [코드](./Programmers/Level1/모의고사/Solution.java)
 * <체육복> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42862) | [코드](./Programmers/Level1/체육복/Solution.java)
 * <2016년> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12901) | [코드](./Programmers/Level1/2016년/Solution.java)
-* <3진법뒤집기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/68935) | [코드](./Programmers/Level1/3진법뒤집기/Solution.java)
+* <3진법 뒤집기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/68935) | [코드](./Programmers/Level1/3진법뒤집기/Solution.java)
+* <같은 숫자는 싫어> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12906) | [코드](./Programmers/Level1/같은숫자는싫어/Solution.java)
