@@ -20,3 +20,4 @@
 * <나누어 떨어지는 숫자 배열> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12910) | [코드](./Programmers/Level1/나누어떨어지는숫자배열/Solution.java)
 * <두 정수 사이의 합> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12912) | [코드](./Programmers/Level1/두정수사이의합/Solution.java)
 * <문자열 내 마음대로 정렬하기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12915) | [코드](./Programmers/Level1/문자열내마음대로정렬하기/Solution.java)
+* <문자열 내 p와 y의 개수> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12916) | [코드](./Programmers/Level1/문자열내p와y의개수/Solution.java)
