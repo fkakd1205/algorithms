@@ -24,3 +24,4 @@
 * <폰켓몬> - [문제](https://programmers.co.kr/learn/courses/30/lessons/1845) | [코드](./Programmers/Level1/폰켓몬/Solution.java)
 * <문자열 내림차순으로 배치하기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12917) | [코드](./Programmers/Level1/문자열내림차순으로배치하기/Solution.java)
 * <문자열 다루기 기본> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12918) | [코드](./Programmers/Level1/문자열다루기기본/Solution.java)
+* <소수 찾기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12921) | [코드](./Programmers/Level1/소수찾기/Solution.java)
