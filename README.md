@@ -27,3 +27,4 @@
 * <소수 찾기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12921) | [코드](./Programmers/Level1/소수찾기/Solution.java)
 * <수박수박수박수박수박수?> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12922) | [코드](./Programmers/Level1/수박수박수박수박수박수/Solution.java)
 * <문자열을 정수로 바꾸기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12925) | [코드](./Programmers/Level1/문자열을정수로바꾸기/Solution.java)
+* <내적> - [문제](https://programmers.co.kr/learn/courses/30/lessons/70128) | [코드](./Programmers/Level1/내적/Solution.java)
