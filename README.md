@@ -30,3 +30,4 @@
 * <내적> - [문제](https://programmers.co.kr/learn/courses/30/lessons/70128) | [코드](./Programmers/Level1/내적/Solution.java)
 * <시저 암호> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12926) | [코드](./Programmers/Level1/시저암호/Solution.java)
 * <약수의 합> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12928) | [코드](./Programmers/Level1/약수의합/Solution.java)
+* <이상한 문자 만들기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12930) | [코드](./Programmers/Level1/이상한문자만들기/Solution.java)
