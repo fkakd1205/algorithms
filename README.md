@@ -32,3 +32,4 @@
 * <약수의 합> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12928) | [코드](./Programmers/Level1/약수의합/Solution.java)
 * <이상한 문자 만들기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12930) | [코드](./Programmers/Level1/이상한문자만들기/Solution.java)
 * <자릿수 더하기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12931) | [코드](./Programmers/Level1/자릿수더하기/Solution.java)
+* <자연수 뒤집어 배열로 만들기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12932) | [코드](./Programmers/Level1/자연수뒤집어배열로만들기/Solution.java)
