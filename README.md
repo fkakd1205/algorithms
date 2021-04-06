@@ -35,3 +35,4 @@
 * <자연수 뒤집어 배열로 만들기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12932) | [코드](./Programmers/Level1/자연수뒤집어배열로만들기/Solution.java)
 * <정수 내림차순으로 배치하기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12933) | [코드](./Programmers/Level1/정수내림차순으로배치하기/Solution.java)
 * <정수 제곱근 판별> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12934) | [코드](./Programmers/Level1/정수제곱근판별/Solution.java)
+* <제일 작은 수 제거하기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12935) | [코드](./Programmers/Level1/제일작은수제거하기/Solution.java)
