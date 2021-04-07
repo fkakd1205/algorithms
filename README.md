@@ -37,3 +37,4 @@
 * <정수 제곱근 판별> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12934) | [코드](./Programmers/Level1/정수제곱근판별/Solution.java)
 * <제일 작은 수 제거하기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12935) | [코드](./Programmers/Level1/제일작은수제거하기/Solution.java)
 * <짝수와 홀수> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12937) | [코드](./Programmers/Level1/짝수와홀수/Solution.java)
+* <최대공약수와 최소공배수> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12940) | [코드](./Programmers/Level1/최대공약수와최소공배수/Solution.java)
