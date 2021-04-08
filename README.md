@@ -39,3 +39,4 @@
 * <짝수와 홀수> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12937) | [코드](./Programmers/Level1/짝수와홀수/Solution.java)
 * <최대공약수와 최소공배수> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12940) | [코드](./Programmers/Level1/최대공약수와최소공배수/Solution.java) + ([유클리드 호제법](https://namu.wiki/w/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C%20%ED%98%B8%EC%A0%9C%EB%B2%95))
 * <콜라츠 추측> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12943) | [코드](./Programmers/Level1/콜라츠추측/Solution.java)
+* <하샤드 수> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12947) | [코드](./Programmers/Level1/하샤드수/Solution.java)
