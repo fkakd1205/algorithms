@@ -42,3 +42,4 @@
 * <평균 구하기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12944) | [코드](./Programmers/Level1/평균구하기/Solution.java)
 * <하샤드 수> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12947) | [코드](./Programmers/Level1/하샤드수/Solution.java)
 * <핸드폰 번호 가리기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12948) | [코드](./Programmers/Level1/핸드폰번호가리기/Solution.java)
+* <키패드 누르기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/67256) | [코드](./Programmers/Level1/키패드누르기/Solution.java)
