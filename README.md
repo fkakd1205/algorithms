@@ -45,3 +45,4 @@
 * <키패드 누르기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/67256) | [코드](./Programmers/Level1/키패드누르기/Solution.java)
 * <행렬의 덧셈> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12950) | [코드](./Programmers/Level1/행렬의덧셈/Solution.java)
 * <x만큼 간격이 있는 n개의 숫자> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12954) | [코드](./Programmers/Level1/x만큼간격이있는n개의숫자/Solution.java)
+* <직사각형 별찍기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12969) | [코드](./Programmers/Level1/직사각형별찍기/Solution.java)
