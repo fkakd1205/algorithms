@@ -1,6 +1,4 @@
-package level1;
-
-class Solution41 {
+class Solution {
     public int solution(int[] nums) {
         int answer = 0;
         int sum = 0;	// 세 수를 더한 값을 저장하기 위한 변수
