@@ -51,3 +51,10 @@
 * <실패율> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42889) | [코드](./Programmers/Level1/실패율/Solution.java)
 * <다트 게임> - [문제](https://programmers.co.kr/learn/courses/30/lessons/17682) | [코드](./Programmers/Level1/다트게임/Solution.java)
 * <신규 아이디 추천> - [문제](https://programmers.co.kr/learn/courses/30/lessons/72410) | [코드](./Programmers/Level1/신규아이디추천/Solution.java)
+
+
+### [Level2](./Programmers/Level1)
+###### 프로그래머스 > 코딩테스트 연습 > Level2
+
+* <주식가격> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42584) | [코드](./Programmers/Level2/주식가격/Solution.java)
+* <124 나라의 숫자> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12899) | [코드](./Programmers/Level2/124나라의숫자/Solution.java)
