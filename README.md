@@ -59,3 +59,4 @@
 * <주식가격> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42584) | [코드](./Programmers/Level2/주식가격/Solution.java)
 * <124 나라의 숫자> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12899) | [코드](./Programmers/Level2/124나라의숫자/Solution.java)
 * <스킬트리> - [문제](https://programmers.co.kr/learn/courses/30/lessons/49993) | [코드](./Programmers/Level2/스킬트리/Solution.java)
+* <프린터> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42587) | [코드](./Programmers/Level2/프린터/Solution.java)
