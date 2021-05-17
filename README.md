@@ -7,7 +7,7 @@
 ### [Level1](./Programmers/Level1)
 ###### 프로그래머스 > 코딩테스트 연습 > Level1
 
-* <완주하지 못한 선수> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42576) | [코드](./Programmers/Level1/완주하지못한선수/Solution.java)
+* <완주하지 못한 선수> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42576) | [코드1(Java)](./Programmers/Level1/완주하지못한선수/Solution.java) | [코드2(C++)](./Programmers/Level1/완주하지못한선수/Solution2.cpp)
 * <가운데 글자 가져오기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12903) | [코드](./Programmers/Level1/가운데글자가져오기/Solution.java)
 * <[1차] 비밀지도> - [문제](https://programmers.co.kr/learn/courses/30/lessons/17681) | [코드](./Programmers/Level1/비밀지도/Solution.java)
 * <K번째수> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42748) | [코드](./Programmers/Level1/K번째수/Solution.java)
