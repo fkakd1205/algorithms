@@ -61,3 +61,4 @@
 * <스킬트리> - [문제](https://programmers.co.kr/learn/courses/30/lessons/49993) | [코드](./Programmers/Level2/스킬트리/Solution.java)
 * <프린터> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42587) | [코드](./Programmers/Level2/프린터/Solution.java)
 * <기능개발> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42586) | [코드1](./Programmers/Level2/기능개발/Solution.java) | [코드2(Use Stack)](./Programmers/Level2/기능개발/Solution2.java)
+* <멀쩡한 사각형> - [문제](https://programmers.co.kr/learn/courses/30/lessons/62048) | [코드](./Programmers/Level2/멀쩡한사각형/Solution.java) + ([유클리드 호제법](https://namu.wiki/w/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C%20%ED%98%B8%EC%A0%9C%EB%B2%95))
