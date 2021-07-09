@@ -64,3 +64,4 @@
 * <멀쩡한 사각형> - [문제](https://programmers.co.kr/learn/courses/30/lessons/62048) | [코드](./Programmers/Level2/멀쩡한사각형/Solution.java) + ([유클리드 호제법](https://namu.wiki/w/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C%20%ED%98%B8%EC%A0%9C%EB%B2%95))
 * <다리를 지나는 트럭> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42583) | [코드](./Programmers/Level2/다리를지나는트럭/Solution.java)
 * <문자열 압축> - [문제](https://programmers.co.kr/learn/courses/30/lessons/60057) | [코드](./Programmers/Level2/문자열압축/Solution.java)
+* <큰 수 만들기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42883) | [코드](./Programmers/Level2/큰수만들기/Solution.java)
