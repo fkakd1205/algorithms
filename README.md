@@ -67,3 +67,4 @@
 * <다리를 지나는 트럭> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42583) | [코드](./Programmers/Level2/다리를지나는트럭/Solution.java)
 * <문자열 압축> - [문제](https://programmers.co.kr/learn/courses/30/lessons/60057) | [코드](./Programmers/Level2/문자열압축/Solution.java)
 * <큰 수 만들기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42883) | [코드](./Programmers/Level2/큰수만들기/Solution.java)
+* <최댓값과 최솟값> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12939) | [코드](./Programmers/Level2/최댓값과최솟값/Solution.java)
