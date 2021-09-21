@@ -70,3 +70,4 @@
 * <최댓값과 최솟값> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12939) | [코드](./Programmers/Level2/최댓값과최솟값/Solution.java)
 * <카펫> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42842) | [코드](./Programmers/Level2/카펫/Solution.java)
 * <가장 큰 수> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42746) | [코드](./Programmers/Level2/가장큰수/Solution.java)
+* <구명보트> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42885) | [코드](./Programmers/Level2/구명보트/Solution.java)
