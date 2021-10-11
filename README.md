@@ -73,3 +73,4 @@
 * <구명보트> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42885) | [코드](./Programmers/Level2/구명보트/Solution.java)
 * <더 맵게> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42626) | [코드](./Programmers/Level2/더맵게/Solution.java)
 * <JadenCase 문자열 만들기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12951) | [코드](./Programmers/Level2/JadenCase문자열만들기/Solution.java)
+* <N개의 최소공배수> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12953) | [코드](./Programmers/Level2/N개의최소공배수/Solution.java)
