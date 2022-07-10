@@ -53,7 +53,10 @@
 * <신규 아이디 추천> - [문제](https://programmers.co.kr/learn/courses/30/lessons/72410) | [코드](./Programmers/Level1/신규아이디추천/Solution.java)
 * <음양 더하기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/76501) | [코드](./Programmers/Level1/음양더하기/Solution.java)
 * <숫자 문자열과 영단어> - [문제](https://programmers.co.kr/learn/courses/30/lessons/81301) | [코드](./Programmers/Level1/숫자문자열과영단어/Solution.java)
+* <없는 숫자 더하기> - [문제](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | [코드](./Programmers/Level1/없는숫자더하기/Solution.java)
 
+<br />
+<br />
 
 ### [Level2](./Programmers/Level1)
 ###### 프로그래머스 > 코딩테스트 연습 > Level2
