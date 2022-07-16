@@ -54,6 +54,7 @@
 * <음양 더하기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/76501) | [코드](./Programmers/Level1/음양더하기/Solution.java)
 * <숫자 문자열과 영단어> - [문제](https://programmers.co.kr/learn/courses/30/lessons/81301) | [코드](./Programmers/Level1/숫자문자열과영단어/Solution.java)
 * <없는 숫자 더하기> - [문제](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | [코드](./Programmers/Level1/없는숫자더하기/Solution.java)
+* <신고 결과 받기> - [문제](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [코드](./Programmers/Level1/신고결과받기/Solution.java)
 
 <br />
 <br />
