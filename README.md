@@ -93,8 +93,11 @@
 
 ## 2. [Baekjoon](./Baekjoon)
 ### 백준 문제 및 코드
+#### (바킹독 알고리즘 강의를 본 후 [문제집](https://github.com/encrypted-def/basic-algo-lecture) 풀이)
 
 <br />
 
 * <10871> - [문제](https://www.acmicpc.net/problem/10871) | [코드](./Baekjoon/10871/Main.java)
 * <1000> - [문제](https://www.acmicpc.net/problem/1000) | [코드](./Baekjoon/1000/Main.java)
+* <2557> - [문제](https://www.acmicpc.net/problem/2557) | [코드](./Baekjoon/2557/Main.java)
+* <10171> - [문제](https://www.acmicpc.net/problem/10171) | [코드](./Baekjoon/10171/Main.java)
