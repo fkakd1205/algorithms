@@ -56,6 +56,7 @@
 * <없는 숫자 더하기> - [문제](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | [코드](./Programmers/Level1/없는숫자더하기/Solution.java)
 * <신고 결과 받기> - [문제](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [코드](./Programmers/Level1/신고결과받기/Solution.java)
 * <부족한 금액 계산하기> - [문제](https://school.programmers.co.kr/learn/courses/30/lessons/82612) | [코드](./Programmers/Level1/부족한금액계산하기/Solution.java)
+* <로또의 최고 순위와 최저 순위> - [문제](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | [코드](./Programmers/Level1/로또의최고순위와최저순위/Solution.java)
 
 <br />
 <br />
