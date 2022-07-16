@@ -85,3 +85,15 @@
 * <H - Index> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42747) | [코드](./Programmers/Level2/H-Index/Solution.java)
 * <전화번호 목록> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42577) | [코드](./Programmers/Level2/전화번호목록/Solution.java)
 * <행렬의 곱셈> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12949) | [코드](./Programmers/Level2/행렬의곱셈/Solution.java)
+
+<br />
+<br />
+
+<hr />
+
+## 2. [Baekjoon](./Baekjoon)
+### 백준 문제 및 코드
+
+<br />
+
+* <10871> - [문제](https://www.acmicpc.net/problem/10871) | [코드](./Baekjoon/10871/Main.java)
