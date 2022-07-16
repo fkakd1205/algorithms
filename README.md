@@ -97,3 +97,4 @@
 <br />
 
 * <10871> - [문제](https://www.acmicpc.net/problem/10871) | [코드](./Baekjoon/10871/Main.java)
+* <1000> - [문제](https://www.acmicpc.net/problem/1000) | [코드](./Baekjoon/1000/Main.java)
