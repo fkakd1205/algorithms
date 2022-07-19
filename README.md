@@ -107,3 +107,9 @@
 * <15552> - [문제](https://www.acmicpc.net/problem/15552) | [코드](./Baekjoon/15552/Main.java)
 * <2309> - [문제](https://www.acmicpc.net/problem/2309) | [코드](./Baekjoon/2309/Main.java)
 * <2446> - [문제](https://www.acmicpc.net/problem/2446) | [코드](./Baekjoon/2446/Main.java)
+
+<br />
+
+#### [0x03] 배열
+* <10808> - [문제](https://www.acmicpc.net/problem/10808) | [코드](./Baekjoon/10808/Main.java)
+* <1475> - [문제](https://www.acmicpc.net/problem/1475) | [코드](./Baekjoon/1475/Main.java)
