@@ -113,3 +113,5 @@
 #### [0x03] 배열
 * <10808> - [문제](https://www.acmicpc.net/problem/10808) | [코드](./Baekjoon/10808/Main.java)
 * <1475> - [문제](https://www.acmicpc.net/problem/1475) | [코드](./Baekjoon/1475/Main.java)
+* <13300> - [문제](https://www.acmicpc.net/problem/13300) | [코드](./Baekjoon/13300/Main.java)
+* <11328> - [문제](https://www.acmicpc.net/problem/11328) | [코드](./Baekjoon/11328/Main.java)
