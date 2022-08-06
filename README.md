@@ -116,3 +116,8 @@
 * <13300> - [문제](https://www.acmicpc.net/problem/13300) | [코드](./Baekjoon/13300/Main.java)
 * <11328> - [문제](https://www.acmicpc.net/problem/11328) | [코드](./Baekjoon/11328/Main.java)
 * <1919> - [문제](https://www.acmicpc.net/problem/1919) | [코드](./Baekjoon/1919/Main.java)
+
+<br />
+
+#### [0x04] 연결리스트
+* <1406> - [문제](https://www.acmicpc.net/problem/1406) | [코드1(ListIterator)](./Baekjoon/1406/Main.java) | [코드2(Stack)](./Baekjoon/1406/Main2.java)
