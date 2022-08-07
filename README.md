@@ -93,7 +93,7 @@
 
 ## 2. [Baekjoon](./Baekjoon)
 ### 백준 문제 및 코드
-#### (바킹독 알고리즘 강의를 본 후 [문제집](https://github.com/encrypted-def/basic-algo-lecture) 풀이)
+##### (바킹독 알고리즘 강의를 본 후 [문제집](https://github.com/encrypted-def/basic-algo-lecture) 풀이)
 
 <br />
 
@@ -122,3 +122,9 @@
 * <1406> - [문제](https://www.acmicpc.net/problem/1406) | [코드1(ListIterator)](./Baekjoon/0x04/1406/Main.java) | [코드2(Stack)](./Baekjoon/0x04/1406/Main2.java)
 * <5397> - [문제](https://www.acmicpc.net/problem/5397) | [코드(ListIterator)](./Baekjoon/0x04/5397/Main.java)
 * <1158> - [문제](https://www.acmicpc.net/problem/1158) | [코드](./Baekjoon/0x04/1158/Main.java)
+
+<br />
+
+#### [0x05] 스택
+* <10828> - [문제](https://www.acmicpc.net/problem/10828) | [코드1(Stack)](./Baekjoon/0x05/10828/Main.java) | [코드2(배열)](./Baekjoon/0x05/10828/Main2.java)
+* <1874> - [문제](https://www.acmicpc.net/problem/1874) | [코드](./Baekjoon/0x05/1874/Main.java)
