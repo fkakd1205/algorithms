@@ -98,28 +98,27 @@
 <br />
 
 #### [0x02] 기초 코드 작성 요령 II
-* <10871> - [문제](https://www.acmicpc.net/problem/10871) | [코드](./Baekjoon/10871/Main.java)
-* <1000> - [문제](https://www.acmicpc.net/problem/1000) | [코드](./Baekjoon/1000/Main.java)
-* <2557> - [문제](https://www.acmicpc.net/problem/2557) | [코드](./Baekjoon/2557/Main.java)
-* <10171> - [문제](https://www.acmicpc.net/problem/10171) | [코드](./Baekjoon/10171/Main.java)
-* <2309> - [문제](https://www.acmicpc.net/problem/2309) | [코드](./Baekjoon/2309/Main.java)
-* <1267> - [문제](https://www.acmicpc.net/problem/1267) | [코드](./Baekjoon/1267/Main.java)
-* <15552> - [문제](https://www.acmicpc.net/problem/15552) | [코드](./Baekjoon/15552/Main.java)
-* <2309> - [문제](https://www.acmicpc.net/problem/2309) | [코드](./Baekjoon/2309/Main.java)
-* <2446> - [문제](https://www.acmicpc.net/problem/2446) | [코드](./Baekjoon/2446/Main.java)
+* <10871> - [문제](https://www.acmicpc.net/problem/10871) | [코드](./Baekjoon/0x02/10871/Main.java)
+* <1000> - [문제](https://www.acmicpc.net/problem/1000) | [코드](./Baekjoon/0x02/1000/Main.java)
+* <2557> - [문제](https://www.acmicpc.net/problem/2557) | [코드](./Baekjoon/0x02/2557/Main.java)
+* <10171> - [문제](https://www.acmicpc.net/problem/10171) | [코드](./Baekjoon/0x02/10171/Main.java)
+* <2309> - [문제](https://www.acmicpc.net/problem/2309) | [코드](./Baekjoon/0x02/2309/Main.java)
+* <1267> - [문제](https://www.acmicpc.net/problem/1267) | [코드](./Baekjoon/0x02/1267/Main.java)
+* <15552> - [문제](https://www.acmicpc.net/problem/15552) | [코드](./Baekjoon/0x02/15552/Main.java)
+* <2446> - [문제](https://www.acmicpc.net/problem/2446) | [코드](./Baekjoon/0x02/2446/Main.java)
 
 <br />
 
 #### [0x03] 배열
-* <10808> - [문제](https://www.acmicpc.net/problem/10808) | [코드](./Baekjoon/10808/Main.java)
-* <1475> - [문제](https://www.acmicpc.net/problem/1475) | [코드](./Baekjoon/1475/Main.java)
-* <13300> - [문제](https://www.acmicpc.net/problem/13300) | [코드](./Baekjoon/13300/Main.java)
-* <11328> - [문제](https://www.acmicpc.net/problem/11328) | [코드](./Baekjoon/11328/Main.java)
-* <1919> - [문제](https://www.acmicpc.net/problem/1919) | [코드](./Baekjoon/1919/Main.java)
+* <10808> - [문제](https://www.acmicpc.net/problem/10808) | [코드](./Baekjoon/0x03/10808/Main.java)
+* <1475> - [문제](https://www.acmicpc.net/problem/1475) | [코드](./Baekjoon/0x03/1475/Main.java)
+* <13300> - [문제](https://www.acmicpc.net/problem/13300) | [코드](./Baekjoon/0x03/13300/Main.java)
+* <11328> - [문제](https://www.acmicpc.net/problem/11328) | [코드](./Baekjoon/0x03/11328/Main.java)
+* <1919> - [문제](https://www.acmicpc.net/problem/1919) | [코드](./Baekjoon/0x03/1919/Main.java)
 
 <br />
 
 #### [0x04] 연결리스트
-* <1406> - [문제](https://www.acmicpc.net/problem/1406) | [코드1(ListIterator)](./Baekjoon/1406/Main.java) | [코드2(Stack)](./Baekjoon/1406/Main2.java)
-* <5397> - [문제](https://www.acmicpc.net/problem/5397) | [코드](./Baekjoon/5397/Main.java)
-* <1158> - [문제](https://www.acmicpc.net/problem/1158) | [코드](./Baekjoon/1158/Main.java)
+* <1406> - [문제](https://www.acmicpc.net/problem/1406) | [코드1(ListIterator)](./Baekjoon/0x04/1406/Main.java) | [코드2(Stack)](./Baekjoon/0x04/1406/Main2.java)
+* <5397> - [문제](https://www.acmicpc.net/problem/5397) | [코드(ListIterator)](./Baekjoon/0x04/5397/Main.java)
+* <1158> - [문제](https://www.acmicpc.net/problem/1158) | [코드](./Baekjoon/0x04/1158/Main.java)
