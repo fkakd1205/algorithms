@@ -130,3 +130,8 @@
 * <1874> - [문제](https://www.acmicpc.net/problem/1874) | [코드](./Baekjoon/0x05/1874/Main.java)
 * <2493> - [문제](https://www.acmicpc.net/problem/2493) | [코드](./Baekjoon/0x05/2493/Main.java)
 * <3015> - [문제](https://www.acmicpc.net/problem/3015) | [코드](./Baekjoon/0x05/3015/Main.java)
+
+<br />
+
+#### [0x06] 큐
+* <10845> - [문제](https://www.acmicpc.net/problem/10845) | [코드](./Baekjoon/0x06/10845/Main.java)
