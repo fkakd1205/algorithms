@@ -120,7 +120,7 @@
 
 #### [0x04] 연결리스트
 * <1406> - [문제](https://www.acmicpc.net/problem/1406) | [코드1(ListIterator)](./Baekjoon/0x04/1406/Main.java) | [코드2(Stack)](./Baekjoon/0x04/1406/Main2.java) | [코드(Python)](./Baekjoon/0x04/1406/Solution.py)
-* <5397> - [문제](https://www.acmicpc.net/problem/5397) | [코드(ListIterator)](./Baekjoon/0x04/5397/Main.java)
+* <5397> - [문제](https://www.acmicpc.net/problem/5397) | [코드(ListIterator)](./Baekjoon/0x04/5397/Main.java) | [코드(Python)](./Baekjoon/0x04/5397/Solution.py)
 * <1158> - [문제](https://www.acmicpc.net/problem/1158) | [코드](./Baekjoon/0x04/1158/Main.java)
 
 <br />
