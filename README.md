@@ -98,7 +98,7 @@
 <br />
 
 #### [0x02] 기초 코드 작성 요령 II
-* <10871> - [문제](https://www.acmicpc.net/problem/10871) | [코드](./Baekjoon/0x02/10871/Main.java)
+* <10871> - [문제](https://www.acmicpc.net/problem/10871) | [코드](./Baekjoon/0x02/10871/Main.java) | [코드(Python)](./Baekjoon/0x02/10871/Solution.py)
 * <1000> - [문제](https://www.acmicpc.net/problem/1000) | [코드](./Baekjoon/0x02/1000/Main.java)
 * <2557> - [문제](https://www.acmicpc.net/problem/2557) | [코드](./Baekjoon/0x02/2557/Main.java)
 * <10171> - [문제](https://www.acmicpc.net/problem/10171) | [코드](./Baekjoon/0x02/10171/Main.java)
