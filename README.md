@@ -134,5 +134,5 @@
 <br />
 
 #### [0x06] 큐
-* <10845> - [문제](https://www.acmicpc.net/problem/10845) | [코드](./Baekjoon/0x06/10845/Main.java)
+* <10845> - [문제](https://www.acmicpc.net/problem/10845) | [코드](./Baekjoon/0x06/10845/Main.java) | [코드(Python)](./Baekjoon/0x06/10845/Solution.py)
 * <18258> - [문제](https://www.acmicpc.net/problem/18258) | [코드](./Baekjoon/0x06/18258/Main.java)
