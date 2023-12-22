@@ -143,3 +143,4 @@
 #### [0x15] 해시
 * <7785> - [문제](https://www.acmicpc.net/problem/7785) | [코드(Python)](./Baekjoon/0x15/7785/Solution.py)
 * <1620> - [문제](https://www.acmicpc.net/problem/1620) | [코드(Python)](./Baekjoon/0x15/1620/Solution.py)
+* <13414> - [문제](https://www.acmicpc.net/problem/13414) | [코드(Python)](./Baekjoon/0x15/13414/Solution.py)
