@@ -146,3 +146,8 @@
 * <13414> - [문제](https://www.acmicpc.net/problem/13414) | [코드(Python)](./Baekjoon/0x15/13414/Solution.py)
 * <17219> - [문제](https://www.acmicpc.net/problem/17219) | [코드(Python)](./Baekjoon/0x15/17219/Solution.py)
 * <9375> - [문제](https://www.acmicpc.net/problem/9375) | [코드(Python)](./Baekjoon/0x15/9375/Solution.py)
+
+<br />
+
+#### [0x0B] 재귀
+* <1629> - [문제](https://www.acmicpc.net/problem/1629) | [코드(Python)](./Baekjoon/0x0B/1629/Solution.py)
