@@ -153,3 +153,4 @@
 * <1629> - [문제](https://www.acmicpc.net/problem/1629) | [코드(Python)](./Baekjoon/0x0B/1629/Solution.py)
 * <11729> - [문제](https://www.acmicpc.net/problem/11729) | [코드(Python)](./Baekjoon/0x0B/11729/Solution.py)
 * <1780> - [문제](https://www.acmicpc.net/problem/1780) | [코드(Python)](./Baekjoon/0x0B/1780/Solution.py)
+* <2630> - [문제](https://www.acmicpc.net/problem/2630) | [코드(Python)](./Baekjoon/0x0B/2630/Solution.py)
