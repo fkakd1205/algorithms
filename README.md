@@ -153,6 +153,8 @@
 #### [0x10] 다이나믹 프로그래밍
 * <1463> - [문제](https://www.acmicpc.net/problem/1463) | [코드(Python)](./Baekjoon/0x10/1463/Solution.py)
 * <9095> - [문제](https://www.acmicpc.net/problem/9095) | [코드(Python)](./Baekjoon/0x10/9095/Solution.py)
+* <1149> - [문제](https://www.acmicpc.net/problem/1149) | [코드(Python)](./Baekjoon/0x10/1149/Solution.py)
+
 
 <br />
 
