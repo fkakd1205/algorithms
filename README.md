@@ -150,6 +150,11 @@
 
 <br />
 
+#### [0x10] 다이나믹 프로그래밍
+* <1463> - [문제](https://www.acmicpc.net/problem/1463) | [코드(Python)](./Baekjoon/0x10/1463/Solution.py)
+
+<br />
+
 #### [0x0B] 재귀
 * <1629> - [문제](https://www.acmicpc.net/problem/1629) | [코드(Python)](./Baekjoon/0x0B/1629/Solution.py)
 * <11729> - [문제](https://www.acmicpc.net/problem/11729) | [코드(Python)](./Baekjoon/0x0B/11729/Solution.py)
