@@ -140,6 +140,11 @@
 
 <br />
 
+#### [0x07] 덱
+* <10866> - [문제](https://www.acmicpc.net/problem/10866) | [코드(Python)](./Baekjoon/0x07/10866/Solution.py)
+
+<br />
+
 #### [0x09] BFS
 * <1926> - [문제](https://www.acmicpc.net/problem/1926) | [코드(Python)](./Baekjoon/0x09/1926/Solution.py)
 * <2178> - [문제](https://www.acmicpc.net/problem/2178) | [코드(Python)](./Baekjoon/0x09/2178/Solution.py)
@@ -150,6 +155,15 @@
 
 <br />
 
+#### [0x0B] 재귀
+* <1629> - [문제](https://www.acmicpc.net/problem/1629) | [코드(Python)](./Baekjoon/0x0B/1629/Solution.py)
+* <11729> - [문제](https://www.acmicpc.net/problem/11729) | [코드(Python)](./Baekjoon/0x0B/11729/Solution.py)
+* <1780> - [문제](https://www.acmicpc.net/problem/1780) | [코드(Python)](./Baekjoon/0x0B/1780/Solution.py)
+* <2630> - [문제](https://www.acmicpc.net/problem/2630) | [코드(Python)](./Baekjoon/0x0B/2630/Solution.py)
+* <1992> - [문제](https://www.acmicpc.net/problem/1992) | [코드(Python)](./Baekjoon/0x0B/1992/Solution.py)
+
+<br />
+
 #### [0x10] 다이나믹 프로그래밍
 * <1463> - [문제](https://www.acmicpc.net/problem/1463) | [코드(Python)](./Baekjoon/0x10/1463/Solution.py)
 * <9095> - [문제](https://www.acmicpc.net/problem/9095) | [코드(Python)](./Baekjoon/0x10/9095/Solution.py)
@@ -157,15 +171,6 @@
 * <1932> - [문제](https://www.acmicpc.net/problem/1932) | [코드(Python)](./Baekjoon/0x10/1932/Solution.py)
 * <11727> - [문제](https://www.acmicpc.net/problem/11727) | [코드(Python)](./Baekjoon/0x10/11727/Solution.py)
 * <14501> - [문제](https://www.acmicpc.net/problem/14501) | [코드(Python)](./Baekjoon/0x10/14501/Solution.py)
-
-<br />
-
-#### [0x0B] 재귀
-* <1629> - [문제](https://www.acmicpc.net/problem/1629) | [코드(Python)](./Baekjoon/0x0B/1629/Solution.py)
-* <11729> - [문제](https://www.acmicpc.net/problem/11729) | [코드(Python)](./Baekjoon/0x0B/11729/Solution.py)
-* <1780> - [문제](https://www.acmicpc.net/problem/1780) | [코드(Python)](./Baekjoon/0x0B/1780/Solution.py)
-* <2630> - [문제](https://www.acmicpc.net/problem/2630) | [코드(Python)](./Baekjoon/0x0B/2630/Solution.py)
-* <1992> - [문제](https://www.acmicpc.net/problem/1992) | [코드(Python)](./Baekjoon/0x0B/1992/Solution.py)
 
 <br />
 
