@@ -5,7 +5,9 @@
 ### 프로그래머스 문제 및 코드
 
 ### [Level1](./Programmers/Level1)
-###### 프로그래머스 > 코딩테스트 연습 > Level1
+
+<details>
+<summary>프로그래머스 > 코딩테스트 연습 > Level1</summary>
 
 * <완주하지 못한 선수> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42576) | [코드1(Java)](./Programmers/Level1/완주하지못한선수/Solution.java) | [코드2(C++)](./Programmers/Level1/완주하지못한선수/Solution2.cpp)
 * <가운데 글자 가져오기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12903) | [코드](./Programmers/Level1/가운데글자가져오기/Solution.java)
@@ -58,11 +60,14 @@
 * <부족한 금액 계산하기> - [문제](https://school.programmers.co.kr/learn/courses/30/lessons/82612) | [코드](./Programmers/Level1/부족한금액계산하기/Solution.java)
 * <로또의 최고 순위와 최저 순위> - [문제](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | [코드](./Programmers/Level1/로또의최고순위와최저순위/Solution.java)
 
-<br />
+</details>
+
 <br />
 
 ### [Level2](./Programmers/Level1)
-###### 프로그래머스 > 코딩테스트 연습 > Level2
+
+<details>
+<summary> 프로그래머스 > 코딩테스트 연습 > Level2 </summary>
 
 * <주식가격> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42584) | [코드](./Programmers/Level2/주식가격/Solution.java)
 * <124 나라의 숫자> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12899) | [코드](./Programmers/Level2/124나라의숫자/Solution.java)
@@ -86,7 +91,8 @@
 * <전화번호 목록> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42577) | [코드](./Programmers/Level2/전화번호목록/Solution.java)
 * <행렬의 곱셈> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12949) | [코드](./Programmers/Level2/행렬의곱셈/Solution.java)
 
-<br />
+</details>
+
 <br />
 
 <hr />
@@ -97,7 +103,9 @@
 
 <br />
 
-#### [0x02] 기초 코드 작성 요령 II
+<details>
+<summary>[0x02] 기초 코드 작성 요령 II</summary>
+
 * <10871> - [문제](https://www.acmicpc.net/problem/10871) | [코드](./Baekjoon/0x02/10871/Main.java) | [코드(Python)](./Baekjoon/0x02/10871/Solution.py)
 * <1000> - [문제](https://www.acmicpc.net/problem/1000) | [코드](./Baekjoon/0x02/1000/Main.java)
 * <2557> - [문제](https://www.acmicpc.net/problem/2557) | [코드](./Baekjoon/0x02/2557/Main.java)
@@ -107,53 +115,74 @@
 * <15552> - [문제](https://www.acmicpc.net/problem/15552) | [코드](./Baekjoon/0x02/15552/Main.java) | [코드(Python)](./Baekjoon/0x02/15552/Solution.py)
 * <2446> - [문제](https://www.acmicpc.net/problem/2446) | [코드](./Baekjoon/0x02/2446/Main.java) | [코드(Python)](./Baekjoon/0x02/2446/Solution.py)
 
+</details>
 <br />
 
-#### [0x03] 배열
+<details>
+<summary>[0x03] 배열</summary>
+
 * <10808> - [문제](https://www.acmicpc.net/problem/10808) | [코드](./Baekjoon/0x03/10808/Main.java) | [코드(Python)](./Baekjoon/0x03/10808/Solution.py)
 * <1475> - [문제](https://www.acmicpc.net/problem/1475) | [코드](./Baekjoon/0x03/1475/Main.java) | [코드(Python)](./Baekjoon/0x03/1475/Solution.py)
 * <13300> - [문제](https://www.acmicpc.net/problem/13300) | [코드](./Baekjoon/0x03/13300/Main.java) | [코드(Python)](./Baekjoon/0x03/13300/Solution.py)
 * <11328> - [문제](https://www.acmicpc.net/problem/11328) | [코드](./Baekjoon/0x03/11328/Main.java) | [코드(Python)](./Baekjoon/0x03/11328/Solution.py)
 * <1919> - [문제](https://www.acmicpc.net/problem/1919) | [코드](./Baekjoon/0x03/1919/Main.java) | [코드(Python)](./Baekjoon/0x03/1919/Solution.py)
 
+</details>
 <br />
 
-#### [0x04] 연결리스트
+<details>
+<summary>[0x04] 연결리스트</summary>
+
 * <1406> - [문제](https://www.acmicpc.net/problem/1406) | [코드1(ListIterator)](./Baekjoon/0x04/1406/Main.java) | [코드2(Stack)](./Baekjoon/0x04/1406/Main2.java) | [코드(Python)](./Baekjoon/0x04/1406/Solution.py)
 * <5397> - [문제](https://www.acmicpc.net/problem/5397) | [코드(ListIterator)](./Baekjoon/0x04/5397/Main.java) | [코드(Python)](./Baekjoon/0x04/5397/Solution.py)
 * <1158> - [문제](https://www.acmicpc.net/problem/1158) | [코드](./Baekjoon/0x04/1158/Main.java) | [코드(Python)](./Baekjoon/0x04/1158/Solution.py)
 
+</details>
 <br />
 
-#### [0x05] 스택
+<details>
+<summary>[0x05] 스택</summary>
+
 * <10828> - [문제](https://www.acmicpc.net/problem/10828) | [코드1(Stack)](./Baekjoon/0x05/10828/Main.java) | [코드2(배열)](./Baekjoon/0x05/10828/Main2.java) | [코드2(Python)](./Baekjoon/0x05/10828/Solution.py)
 * <1874> - [문제](https://www.acmicpc.net/problem/1874) | [코드](./Baekjoon/0x05/1874/Main.java) | [코드(Python)](./Baekjoon/0x05/1874/Solution.py)
 * <2493> - [문제](https://www.acmicpc.net/problem/2493) | [코드](./Baekjoon/0x05/2493/Main.java) | [코드(Python)](./Baekjoon/0x05/2493/Solution.py)
 * <3015> - [문제](https://www.acmicpc.net/problem/3015) | [코드](./Baekjoon/0x05/3015/Main.java)
 
+</details>
 <br />
 
-#### [0x06] 큐
+<details>
+<summary>[0x06] 큐</summary>
+
 * <10845> - [문제](https://www.acmicpc.net/problem/10845) | [코드](./Baekjoon/0x06/10845/Main.java) | [코드(Python)](./Baekjoon/0x06/10845/Solution.py)
 * <18258> - [문제](https://www.acmicpc.net/problem/18258) | [코드](./Baekjoon/0x06/18258/Main.java) | [코드(Python)](./Baekjoon/0x06/18258/Solution.py)
 * <2164> - [문제](https://www.acmicpc.net/problem/2164) | [코드(Python)](./Baekjoon/0x06/2164/Solution.py)
 
+</details>
 <br />
 
-#### [0x07] 덱
+<details>
+<summary>[0x07] 덱</summary>
+
 * <10866> - [문제](https://www.acmicpc.net/problem/10866) | [코드(Python)](./Baekjoon/0x07/10866/Solution.py)
 * <1021> - [문제](https://www.acmicpc.net/problem/1021) | [코드(Python)](./Baekjoon/0x07/1021/Solution.py)
 
+</details>
 <br />
 
-#### [0x08] 스택의 활용 (수식의 괄호 쌍)
+<details>
+<summary>[0x08] 스택의 활용 (수식의 괄호 쌍)</summary>
+
 * <4949> - [문제](https://www.acmicpc.net/problem/4949) | [코드(Python)](./Baekjoon/0x08/4949/Solution.py)
 * <3986> - [문제](https://www.acmicpc.net/problem/3986) | [코드(Python)](./Baekjoon/0x08/3986/Solution.py)
 * <9012> - [문제](https://www.acmicpc.net/problem/9012) | [코드(Python)](./Baekjoon/0x08/9012/Solution.py)
 
+</details>
 <br />
 
-#### [0x09] BFS
+<details>
+<summary>[0x09] BFS</summary>
+
 * <1926> - [문제](https://www.acmicpc.net/problem/1926) | [코드(Python)](./Baekjoon/0x09/1926/Solution.py)
 * <2178> - [문제](https://www.acmicpc.net/problem/2178) | [코드(Python)](./Baekjoon/0x09/2178/Solution.py)
 * <7576> - [문제](https://www.acmicpc.net/problem/7576) | [코드(Python)](./Baekjoon/0x09/7576/Solution.py)
@@ -161,18 +190,24 @@
 * <10026> - [문제](https://www.acmicpc.net/problem/10026) | [코드(Python)](./Baekjoon/0x09/10026/Solution.py)
 * <7569> - [문제](https://www.acmicpc.net/problem/7569) | [코드(Python)](./Baekjoon/0x09/7569/Solution.py) | [코드2(Python)](./Baekjoon/0x09/7569/Solution2.py)
 
+</details>
 <br />
 
-#### [0x0B] 재귀
+<details>
+<summary>[0x0B] 재귀</summary>
+
 * <1629> - [문제](https://www.acmicpc.net/problem/1629) | [코드(Python)](./Baekjoon/0x0B/1629/Solution.py)
 * <11729> - [문제](https://www.acmicpc.net/problem/11729) | [코드(Python)](./Baekjoon/0x0B/11729/Solution.py)
 * <1780> - [문제](https://www.acmicpc.net/problem/1780) | [코드(Python)](./Baekjoon/0x0B/1780/Solution.py)
 * <2630> - [문제](https://www.acmicpc.net/problem/2630) | [코드(Python)](./Baekjoon/0x0B/2630/Solution.py)
 * <1992> - [문제](https://www.acmicpc.net/problem/1992) | [코드(Python)](./Baekjoon/0x0B/1992/Solution.py)
 
+</details>
 <br />
 
-#### [0x10] 다이나믹 프로그래밍
+<details>
+<summary>[0x10] 다이나믹 프로그래밍</summary>
+
 * <1463> - [문제](https://www.acmicpc.net/problem/1463) | [코드(Python)](./Baekjoon/0x10/1463/Solution.py)
 * <9095> - [문제](https://www.acmicpc.net/problem/9095) | [코드(Python)](./Baekjoon/0x10/9095/Solution.py)
 * <1149> - [문제](https://www.acmicpc.net/problem/1149) | [코드(Python)](./Baekjoon/0x10/1149/Solution.py)
@@ -180,19 +215,28 @@
 * <11727> - [문제](https://www.acmicpc.net/problem/11727) | [코드(Python)](./Baekjoon/0x10/11727/Solution.py)
 * <14501> - [문제](https://www.acmicpc.net/problem/14501) | [코드(Python)](./Baekjoon/0x10/14501/Solution.py)
 
+</details>
 <br />
 
-#### [0x15] 해시
+<details>
+<summary>[0x15] 해시</summary>
+
 * <7785> - [문제](https://www.acmicpc.net/problem/7785) | [코드(Python)](./Baekjoon/0x15/7785/Solution.py)
 * <1620> - [문제](https://www.acmicpc.net/problem/1620) | [코드(Python)](./Baekjoon/0x15/1620/Solution.py)
 * <13414> - [문제](https://www.acmicpc.net/problem/13414) | [코드(Python)](./Baekjoon/0x15/13414/Solution.py)
 * <17219> - [문제](https://www.acmicpc.net/problem/17219) | [코드(Python)](./Baekjoon/0x15/17219/Solution.py)
 * <9375> - [문제](https://www.acmicpc.net/problem/9375) | [코드(Python)](./Baekjoon/0x15/9375/Solution.py)
 
+</details>
 <br />
 
-#### [0x19] 트리
+<details>
+<summary>[0x19] 트리</summary>
+
 * <11725> - [문제](https://www.acmicpc.net/problem/11725) | [코드(Python)](./Baekjoon/0x19/11725/Solution.py)
 * <1991> - [문제](https://www.acmicpc.net/problem/1991) | [코드(Python)](./Baekjoon/0x19/1991/Solution.py)
 * <15681> - [문제](https://www.acmicpc.net/problem/15681) | [코드(Python)](./Baekjoon/0x19/15681/Solution.py)
 * <1240> - [문제](https://www.acmicpc.net/problem/1240) | [코드(Python)](./Baekjoon/0x19/1240/Solution.py)
+
+</details>
+<br />
