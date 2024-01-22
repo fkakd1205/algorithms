@@ -146,6 +146,11 @@
 
 <br />
 
+#### [0x08] 스택의 활용 (수식의 괄호 쌍)
+* <4949> - [문제](https://www.acmicpc.net/problem/4949) | [코드(Python)](./Baekjoon/0x08/4949/Solution.py)
+
+<br />
+
 #### [0x09] BFS
 * <1926> - [문제](https://www.acmicpc.net/problem/1926) | [코드(Python)](./Baekjoon/0x09/1926/Solution.py)
 * <2178> - [문제](https://www.acmicpc.net/problem/2178) | [코드(Python)](./Baekjoon/0x09/2178/Solution.py)
