@@ -149,6 +149,7 @@
 #### [0x08] 스택의 활용 (수식의 괄호 쌍)
 * <4949> - [문제](https://www.acmicpc.net/problem/4949) | [코드(Python)](./Baekjoon/0x08/4949/Solution.py)
 * <3986> - [문제](https://www.acmicpc.net/problem/3986) | [코드(Python)](./Baekjoon/0x08/3986/Solution.py)
+* <9012> - [문제](https://www.acmicpc.net/problem/9012) | [코드(Python)](./Baekjoon/0x08/9012/Solution.py)
 
 <br />
 
