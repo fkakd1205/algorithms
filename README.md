@@ -217,6 +217,14 @@
 <br />
 
 <details>
+<summary>[0x0F] 정렬II</summary>
+
+* <1431> - [문제](https://www.acmicpc.net/problem/1431) | [코드(Python)](./Baekjoon/0x0F/1431/Solution.py)
+
+</details>
+<br />
+
+<details>
 <summary>[0x10] 다이나믹 프로그래밍</summary>
 
 * <1463> - [문제](https://www.acmicpc.net/problem/1463) | [코드(Python)](./Baekjoon/0x10/1463/Solution.py)
