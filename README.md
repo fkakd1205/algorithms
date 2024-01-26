@@ -206,6 +206,14 @@
 <br />
 
 <details>
+<summary>[0x0C] 백트래킹</summary>
+
+* <15649> - [문제](https://www.acmicpc.net/problem/15649) | [코드(Python)](./Baekjoon/0x0C/15649/Solution.py)
+
+</details>
+<br />
+
+<details>
 <summary>[0x0E] 정렬I</summary>
 
 * <2750> - [문제](https://www.acmicpc.net/problem/2750) | [코드(Python)](./Baekjoon/0x0E/2750/Solution.py)
