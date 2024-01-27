@@ -218,6 +218,14 @@
 <br />
 
 <details>
+<summary>[0x0D] 시뮬레이션</summary>
+
+* <15683> - [문제](https://www.acmicpc.net/problem/15683) | [코드(Python)](./Baekjoon/0x0D/15683/Solution.py)
+
+</details>
+<br />
+
+<details>
 <summary>[0x0E] 정렬I</summary>
 
 * <2750> - [문제](https://www.acmicpc.net/problem/2750) | [코드(Python)](./Baekjoon/0x0E/2750/Solution.py)
