@@ -267,8 +267,10 @@
 <summary>[0x11] 그리디</summary>
 
 * <11047> - [문제](https://www.acmicpc.net/problem/11047) | [코드(Python)](./Baekjoon/0x11/11047/Solution.py)
+* <1931> - [문제](https://www.acmicpc.net/problem/1931) | [코드(Python)](./Baekjoon/0x11/1931/Solution.py)
 * <2217> - [문제](https://www.acmicpc.net/problem/2217) | [코드(Python)](./Baekjoon/0x11/2217/Solution.py)
 * <1026> - [문제](https://www.acmicpc.net/problem/1026) | [코드(Python)](./Baekjoon/0x11/1026/Solution.py)
+* <11399> - [문제](https://www.acmicpc.net/problem/11399) | [코드(Python)](./Baekjoon/0x11/11399/Solution.py)
 
 </details>
 <br />
