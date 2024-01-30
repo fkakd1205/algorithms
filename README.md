@@ -283,6 +283,7 @@
 * <11653> - [문제](https://www.acmicpc.net/problem/11653) | [코드(Python)](./Baekjoon/0x12/11653/Solution.py)
 * <11050> - [문제](https://www.acmicpc.net/problem/11050) | [코드(Python)](./Baekjoon/0x12/11050/Solution.py)
 * <15894> - [문제](https://www.acmicpc.net/problem/15894) | [코드(Python)](./Baekjoon/0x12/15894/Solution.py)
+* <4796> - [문제](https://www.acmicpc.net/problem/4796) | [코드(Python)](./Baekjoon/0x12/4796/Solution.py)
 
 </details>
 <br />
