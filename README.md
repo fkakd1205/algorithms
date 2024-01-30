@@ -276,6 +276,16 @@
 <br />
 
 <details>
+<summary>[0x12] 수학</summary>
+
+* <1978> - [문제](https://www.acmicpc.net/problem/1978) | [코드(Python)](./Baekjoon/0x12/1978/Solution.py)
+* <1929> - [문제](https://www.acmicpc.net/problem/1929) | [코드(Python)](./Baekjoon/0x12/1929/Solution.py)
+* <11653> - [문제](https://www.acmicpc.net/problem/11653) | [코드(Python)](./Baekjoon/0x12/11653/Solution.py)
+
+</details>
+<br />
+
+<details>
 <summary>[0x15] 해시</summary>
 
 * <7785> - [문제](https://www.acmicpc.net/problem/7785) | [코드(Python)](./Baekjoon/0x15/7785/Solution.py)
