@@ -289,6 +289,15 @@
 <br />
 
 <details>
+<summary>[0x13] 이분탐색</summary>
+
+* <1920> - [문제](https://www.acmicpc.net/problem/1920) | [코드(Python)](./Baekjoon/0x13/1920/Solution.py)
+* <10816> - [문제](https://www.acmicpc.net/problem/10816) | [코드(Python)](./Baekjoon/0x13/10816/Solution.py)
+
+</details>
+<br />
+
+<details>
 <summary>[0x15] 해시</summary>
 
 * <7785> - [문제](https://www.acmicpc.net/problem/7785) | [코드(Python)](./Baekjoon/0x15/7785/Solution.py)
