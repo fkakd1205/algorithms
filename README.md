@@ -300,6 +300,15 @@
 <br />
 
 <details>
+<summary>[0x14] 투 포인터</summary>
+
+* <2230> - [문제](https://www.acmicpc.net/problem/2230) | [코드(Python)](./Baekjoon/0x14/2230/Solution.py)
+* <1806> - [문제](https://www.acmicpc.net/problem/1806) | [코드(Python)](./Baekjoon/0x14/1806/Solution.py)
+
+</details>
+<br />
+
+<details>
 <summary>[0x15] 해시</summary>
 
 * <7785> - [문제](https://www.acmicpc.net/problem/7785) | [코드(Python)](./Baekjoon/0x15/7785/Solution.py)
