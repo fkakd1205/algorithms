@@ -323,6 +323,14 @@
 <br />
 
 <details>
+<summary>[0x16] 이진 검색 트리</summary>
+
+* <7662> - [문제](https://www.acmicpc.net/problem/7662) | [코드(Python)](./Baekjoon/0x16/7662/Solution.py)
+
+</details>
+<br />
+
+<details>
 <summary>[0x19] 트리</summary>
 
 * <11725> - [문제](https://www.acmicpc.net/problem/11725) | [코드(Python)](./Baekjoon/0x19/11725/Solution.py)
