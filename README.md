@@ -344,14 +344,6 @@
 <br />
 
 <details>
-<summary>[0x18] 그래프</summary>
-
-* <11724> - [문제](https://www.acmicpc.net/problem/11724) | [코드(Python)](./Baekjoon/0x18/11724/Solution.py)
-
-</details>
-<br />
-
-<details>
 <summary>[0x19] 트리</summary>
 
 * <11725> - [문제](https://www.acmicpc.net/problem/11725) | [코드(Python)](./Baekjoon/0x19/11725/Solution.py)
