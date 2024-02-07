@@ -375,3 +375,12 @@
 
 </details>
 <br />
+
+<details>
+<summary>[0x1B] 최소 신장 트리</summary>
+
+* <1197> - [문제](https://www.acmicpc.net/problem/1197) | [코드(Python)](./Baekjoon/0x1B/1197/Solution.py)
+* <1368> - [문제](https://www.acmicpc.net/problem/1368) | [코드(Python)](./Baekjoon/0x1B/1368/Solution.py)
+
+</details>
+<br />
