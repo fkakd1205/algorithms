@@ -24,6 +24,7 @@ check[0] = True
 for w, i in adj[0]:
     heappush(min_heap, [w, i])
 
+# 프림 알고리즘
 # 최종 선택된 노드는 N개 (임의의 노드 0을 추가했으므로)
 while(cnt < N):
     weight, des = heappop(min_heap)

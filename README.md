@@ -381,6 +381,8 @@
 
 * <1197> - [문제](https://www.acmicpc.net/problem/1197) | [코드(Python)](./Baekjoon/0x1B/1197/Solution.py)
 * <1368> - [문제](https://www.acmicpc.net/problem/1368) | [코드(Python)](./Baekjoon/0x1B/1368/Solution.py)
+* <9372> - [문제](https://www.acmicpc.net/problem/9372) | [코드(Python)](./Baekjoon/0x1B/9372/Solution.py)
+* <16398> - [문제](https://www.acmicpc.net/problem/16398) | [코드(Python)](./Baekjoon/0x1B/16398/Solution.py)
 
 </details>
 <br />
