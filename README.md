@@ -392,6 +392,7 @@
 
 * <11404> - [문제](https://www.acmicpc.net/problem/11404) | [코드(Python)](./Baekjoon/0x1C/11404/Solution.py)
 * <11780> - [문제](https://www.acmicpc.net/problem/11780) | [코드(Python)](./Baekjoon/0x1C/11780/Solution.py)
+* <14938> - [문제](https://www.acmicpc.net/problem/14938) | [코드(Python)](./Baekjoon/0x1C/14938/Solution.py)
 
 </details>
 <br />
