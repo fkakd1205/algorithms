@@ -1,9 +1,10 @@
 S = input()
 P = input()
-f = [0] * (len(P)+1)
+f = [0] * (len(P)+1)    # P의 접두사, 접미사 비교 결과를 저장
 
 # KMP 알고리즘 - 접두사, 접미사 비교를 통해 확인할 문자열을 건너뛸 수 있도록 한다
 # 1. P에서 패턴을 찾아 f세팅
+#    - 접미사를 비교할 인덱스 i, 접두사를 비교할 인덱스 j
 def failure():
     j = 0
     for i in range(1, len(P)):
@@ -15,6 +16,7 @@ def failure():
 failure()
 
 # 2. S에서 f를 이용해 P를 찾는다
+#    -  S의 접미사를 비교할 인덱스 i, P의 접두사를 비교할 인덱스 j
 j = 0
 included = False
 for i in range(len(S)):

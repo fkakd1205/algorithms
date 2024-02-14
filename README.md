@@ -412,6 +412,7 @@
 <summary>[0x1E] KMP</summary>
 
 * <16916> - [문제](https://www.acmicpc.net/problem/16916) | [코드(Python)](./Baekjoon/0x1E/16916/Solution.py)
+* <16172> - [문제](https://www.acmicpc.net/problem/16172) | [코드(Python)](./Baekjoon/0x1E/16172/Solution.py)
 
 </details>
 <br />
