@@ -416,3 +416,11 @@
 
 </details>
 <br />
+
+<details>
+<summary>[0x1F] 트라이</summary>
+
+* <14425> - [문제](https://www.acmicpc.net/problem/14425) | [코드(Python)](./Baekjoon/0x1F/14425/Solution.py)
+
+</details>
+<br />
