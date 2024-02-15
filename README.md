@@ -421,6 +421,8 @@
 <summary>[0x1F] 트라이</summary>
 
 * <14425> - [문제](https://www.acmicpc.net/problem/14425) | [코드(Python)](./Baekjoon/0x1F/14425/Solution.py)
+* <14426> - [문제](https://www.acmicpc.net/problem/14426) | [코드(Python)](./Baekjoon/0x1F/14426/Solution.py)
+* <5052> - [문제](https://www.acmicpc.net/problem/5052) | [코드(Python)](./Baekjoon/0x1F/5052/Solution.py)
 
 </details>
 <br />
