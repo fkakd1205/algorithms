@@ -120,10 +120,13 @@
 <br />
 
 <details>
-<summary>[0x03] 배열</summary>
+<summary>[0x03] 배열 ✔️</summary>
 
 * <10808> - [문제](https://www.acmicpc.net/problem/10808) | [코드](./Baekjoon/0x03/10808/Main.java) | [코드(Python)](./Baekjoon/0x03/10808/Solution.py)
+* <2577> - [문제](https://www.acmicpc.net/problem/2577) | [코드(Python)](./Baekjoon/0x03/2577/Solution.py)
 * <1475> - [문제](https://www.acmicpc.net/problem/1475) | [코드](./Baekjoon/0x03/1475/Main.java) | [코드(Python)](./Baekjoon/0x03/1475/Solution.py)
+* <3273> - [문제](https://www.acmicpc.net/problem/3273) | [코드(Python)](./Baekjoon/0x03/3273/Solution.py)
+* <10807> - [문제](https://www.acmicpc.net/problem/10807) | [코드(Python)](./Baekjoon/0x03/10807/Solution.py)
 * <13300> - [문제](https://www.acmicpc.net/problem/13300) | [코드](./Baekjoon/0x03/13300/Main.java) | [코드(Python)](./Baekjoon/0x03/13300/Solution.py)
 * <11328> - [문제](https://www.acmicpc.net/problem/11328) | [코드](./Baekjoon/0x03/11328/Main.java) | [코드(Python)](./Baekjoon/0x03/11328/Solution.py)
 * <1919> - [문제](https://www.acmicpc.net/problem/1919) | [코드](./Baekjoon/0x03/1919/Main.java) | [코드(Python)](./Baekjoon/0x03/1919/Solution.py)
