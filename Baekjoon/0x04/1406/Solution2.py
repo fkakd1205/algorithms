@@ -1,13 +1,10 @@
 from sys import stdin
 
-s = input()
+s = list(input())
 M = int(input())
-left_stack = []
+left_stack = s
 right_stack = []
 cursor = len(s)
-
-for i in s:
-    left_stack.append(i)
 
 for _ in range(M):
     command = stdin.readline().split()
