@@ -145,15 +145,16 @@
 <br />
 
 <details>
-<summary>[0x05] 스택</summary>
+<summary>[0x05] 스택 ✔️</summary>
 
 * <10828> - [문제](https://www.acmicpc.net/problem/10828) | [코드1(Stack)](./Baekjoon/0x05/10828/Main.java) | [코드2(배열)](./Baekjoon/0x05/10828/Main2.java) | [코드3(Python)](./Baekjoon/0x05/10828/Solution.py)
 * <10773> - [문제](https://www.acmicpc.net/problem/10773) | [코드(Python)](./Baekjoon/0x05/10773/Solution.py)
 * <1874> - [문제](https://www.acmicpc.net/problem/1874) | [코드](./Baekjoon/0x05/1874/Main.java) | [코드(Python)](./Baekjoon/0x05/1874/Solution.py) | [코드2(Python)](./Baekjoon/0x05/1874/Solution2.py)
 * <2493> - [문제](https://www.acmicpc.net/problem/2493) | [코드](./Baekjoon/0x05/2493/Main.java) | [코드(Python)](./Baekjoon/0x05/2493/Solution.py) | [코드2(Python)](./Baekjoon/0x05/2493/Solution2.py)
 * <6198> - [문제](https://www.acmicpc.net/problem/6198) | [코드(Python)](./Baekjoon/0x05/6198/Solution.py)
-* <3015> - [문제](https://www.acmicpc.net/problem/3015) | [코드](./Baekjoon/0x05/3015/Main.java)
 * <17298> - [문제](https://www.acmicpc.net/problem/17298) | [코드](./Baekjoon/0x05/17298/Solution.py)
+* <3015>(P) - [문제](https://www.acmicpc.net/problem/3015) | [코드](./Baekjoon/0x05/3015/Main.java)
+* <6549>(P)
 
 </details>
 <br />
