@@ -160,11 +160,11 @@
 <br />
 
 <details>
-<summary>[0x06] 큐</summary>
+<summary>[0x06] 큐 ✔️</summary>
 
 * <10845> - [문제](https://www.acmicpc.net/problem/10845) | [코드](./Baekjoon/0x06/10845/Main.java) | [코드(Python)](./Baekjoon/0x06/10845/Solution.py)
-* <18258> - [문제](https://www.acmicpc.net/problem/18258) | [코드](./Baekjoon/0x06/18258/Main.java) | [코드(Python)](./Baekjoon/0x06/18258/Solution.py)
-* <2164> - [문제](https://www.acmicpc.net/problem/2164) | [코드(Python)](./Baekjoon/0x06/2164/Solution.py)
+* <18258> - [문제](https://www.acmicpc.net/problem/18258) | [코드](./Baekjoon/0x06/18258/Main.java) | [코드(Python)](./Baekjoon/0x06/18258/Solution.py) | [코드2(Python)](./Baekjoon/0x06/18258/Solution2.py)
+* <2164> - [문제](https://www.acmicpc.net/problem/2164) | [코드(Python)](./Baekjoon/0x06/2164/Solution.py) | [코드2(Python)](./Baekjoon/0x06/2164/Solution2.py)
 
 </details>
 <br />
