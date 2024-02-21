@@ -173,7 +173,9 @@
 <summary>[0x07] 덱</summary>
 
 * <10866> - [문제](https://www.acmicpc.net/problem/10866) | [코드(Python)](./Baekjoon/0x07/10866/Solution.py)
-* <1021> - [문제](https://www.acmicpc.net/problem/1021) | [코드(Python)](./Baekjoon/0x07/1021/Solution.py)
+* <1021> - [문제](https://www.acmicpc.net/problem/1021) | [코드(Python)](./Baekjoon/0x07/1021/Solution.py) | [코드2(Python)](./Baekjoon/0x07/1021/Solution2.py)
+* <5430> - [문제](https://www.acmicpc.net/problem/5430) | [코드(Python)](./Baekjoon/0x07/5430/Solution.py)
+* <11003>(P)
 
 </details>
 <br />
