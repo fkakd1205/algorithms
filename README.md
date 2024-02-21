@@ -170,7 +170,7 @@
 <br />
 
 <details>
-<summary>[0x07] 덱</summary>
+<summary>[0x07] 덱 ✔️</summary>
 
 * <10866> - [문제](https://www.acmicpc.net/problem/10866) | [코드(Python)](./Baekjoon/0x07/10866/Solution.py)
 * <1021> - [문제](https://www.acmicpc.net/problem/1021) | [코드(Python)](./Baekjoon/0x07/1021/Solution.py) | [코드2(Python)](./Baekjoon/0x07/1021/Solution2.py)
@@ -181,11 +181,13 @@
 <br />
 
 <details>
-<summary>[0x08] 스택의 활용 (수식의 괄호 쌍)</summary>
+<summary>[0x08] 스택의 활용 (수식의 괄호 쌍) </summary>
 
 * <4949> - [문제](https://www.acmicpc.net/problem/4949) | [코드(Python)](./Baekjoon/0x08/4949/Solution.py)
 * <3986> - [문제](https://www.acmicpc.net/problem/3986) | [코드(Python)](./Baekjoon/0x08/3986/Solution.py)
-* <9012> - [문제](https://www.acmicpc.net/problem/9012) | [코드(Python)](./Baekjoon/0x08/9012/Solution.py)
+* <9012> - [문제](https://www.acmicpc.net/problem/9012) | [코드(Python)](./Baekjoon/0x08/9012/Solution.py) | [코드2(Python)](./Baekjoon/0x08/9012/Solution2.py)
+* <10799> - [문제](https://www.acmicpc.net/problem/10799) | [코드(Python)](./Baekjoon/0x08/10799/Solution.py)
+* <2504>
 
 </details>
 <br />
