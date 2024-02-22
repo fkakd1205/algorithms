@@ -195,10 +195,11 @@
 <details>
 <summary>[0x09] BFS</summary>
 
-* <1926> - [문제](https://www.acmicpc.net/problem/1926) | [코드(Python)](./Baekjoon/0x09/1926/Solution.py)
-* <2178> - [문제](https://www.acmicpc.net/problem/2178) | [코드(Python)](./Baekjoon/0x09/2178/Solution.py)
-* <7576> - [문제](https://www.acmicpc.net/problem/7576) | [코드(Python)](./Baekjoon/0x09/7576/Solution.py)
-* <4179> - [문제](https://www.acmicpc.net/problem/4179) | [코드(Python)](./Baekjoon/0x09/4179/Solution.py)
+* <1926> - [문제](https://www.acmicpc.net/problem/1926) | [코드(Python)](./Baekjoon/0x09/1926/Solution.py) | [코드2(Python)](./Baekjoon/0x09/1926/Solution2.py)
+* <2178> - [문제](https://www.acmicpc.net/problem/2178) | [코드(Python)](./Baekjoon/0x09/2178/Solution.py) | [코드2(Python)](./Baekjoon/0x09/2178/Solution2.py)
+* <7576> - [문제](https://www.acmicpc.net/problem/7576) | [코드(Python)](./Baekjoon/0x09/7576/Solution.py) | [코드2(Python)](./Baekjoon/0x09/7576/Solution2.py)
+* <4179> - [문제](https://www.acmicpc.net/problem/4179) | [코드(Python)](./Baekjoon/0x09/4179/Solution.py) | [코드2(Python)](./Baekjoon/0x09/4179/Solution2.py)
+* <1697> - [문제](https://www.acmicpc.net/problem/1697) | [코드(Python)](./Baekjoon/0x09/1697/Solution.py)
 * <10026> - [문제](https://www.acmicpc.net/problem/10026) | [코드(Python)](./Baekjoon/0x09/10026/Solution.py)
 * <7569> - [문제](https://www.acmicpc.net/problem/7569) | [코드(Python)](./Baekjoon/0x09/7569/Solution.py) | [코드2(Python)](./Baekjoon/0x09/7569/Solution2.py)
 
