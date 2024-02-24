@@ -181,7 +181,7 @@
 <br />
 
 <details>
-<summary>[0x08] 스택의 활용 (수식의 괄호 쌍) </summary>
+<summary>[0x08] 스택의 활용 (수식의 괄호 쌍) 👊🏻</summary>
 
 * <4949> - [문제](https://www.acmicpc.net/problem/4949) | [코드(Python)](./Baekjoon/0x08/4949/Solution.py)
 * <3986> - [문제](https://www.acmicpc.net/problem/3986) | [코드(Python)](./Baekjoon/0x08/3986/Solution.py)
@@ -193,7 +193,7 @@
 <br />
 
 <details>
-<summary>[0x09] BFS</summary>
+<summary>[0x09] BFS 👊🏻</summary>
 
 * <1926> - [문제](https://www.acmicpc.net/problem/1926) | [코드(Python)](./Baekjoon/0x09/1926/Solution.py) | [코드2(Python)](./Baekjoon/0x09/1926/Solution2.py)
 * <2178> - [문제](https://www.acmicpc.net/problem/2178) | [코드(Python)](./Baekjoon/0x09/2178/Solution.py) | [코드2(Python)](./Baekjoon/0x09/2178/Solution2.py)
@@ -210,7 +210,7 @@
 <br />
 
 <details>
-<summary>[0x0B] 재귀</summary>
+<summary>[0x0B] 재귀 👊🏻</summary>
 
 * <1629> - [문제](https://www.acmicpc.net/problem/1629) | [코드(Python)](./Baekjoon/0x0B/1629/Solution.py) | [코드2(Python)](./Baekjoon/0x0B/1629/Solution2.py)
 * <1074> - [문제](https://www.acmicpc.net/problem/1074) | [코드(Python)](./Baekjoon/0x0B/1074/Solution.py)
