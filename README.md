@@ -212,7 +212,9 @@
 <details>
 <summary>[0x0B] 재귀</summary>
 
-* <1629> - [문제](https://www.acmicpc.net/problem/1629) | [코드(Python)](./Baekjoon/0x0B/1629/Solution.py)
+* <1629> - [문제](https://www.acmicpc.net/problem/1629) | [코드(Python)](./Baekjoon/0x0B/1629/Solution.py) | [코드2(Python)](./Baekjoon/0x0B/1629/Solution2.py)
+* <1074> - [문제](https://www.acmicpc.net/problem/1074) | [코드(Python)](./Baekjoon/0x0B/1074/Solution.py)
+* <17478> - [문제](https://www.acmicpc.net/problem/17478) | [코드(Python)](./Baekjoon/0x0B/17478/Solution.py)
 * <11729> - [문제](https://www.acmicpc.net/problem/11729) | [코드(Python)](./Baekjoon/0x0B/11729/Solution.py)
 * <1780> - [문제](https://www.acmicpc.net/problem/1780) | [코드(Python)](./Baekjoon/0x0B/1780/Solution.py)
 * <2630> - [문제](https://www.acmicpc.net/problem/2630) | [코드(Python)](./Baekjoon/0x0B/2630/Solution.py)
