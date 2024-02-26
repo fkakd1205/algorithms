@@ -220,6 +220,8 @@
 * <2630> - [문제](https://www.acmicpc.net/problem/2630) | [코드(Python)](./Baekjoon/0x0B/2630/Solution.py) | [코드2(Python)](./Baekjoon/0x0B/2630/Solution2.py)
 * <1992> - [문제](https://www.acmicpc.net/problem/1992) | [코드(Python)](./Baekjoon/0x0B/1992/Solution.py) | [코드2(Python)](./Baekjoon/0x0B/1992/Solution2.py)
 * <2447> - [문제](https://www.acmicpc.net/problem/2447) | [코드(Python)](./Baekjoon/0x0B/2447/Solution.py)
+* <2448> - [문제](https://www.acmicpc.net/problem/2448) | [코드(Python)](./Baekjoon/0x0B/2448/Solution.py)
+* <14956>
 
 </details>
 <br />
