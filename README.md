@@ -207,6 +207,7 @@
 * <5427> - [문제](https://www.acmicpc.net/problem/5427) | [코드(Python)](./Baekjoon/0x09/5427/Solution.py)
 * <2583> - [문제](https://www.acmicpc.net/problem/2583) | [코드(Python)](./Baekjoon/0x09/2583/Solution.py)
 * <2667> - [문제](https://www.acmicpc.net/problem/2667) | [코드(Python)](./Baekjoon/0x09/2667/Solution.py)
+* <5014> - [문제](https://www.acmicpc.net/problem/5014) | [코드(Python)](./Baekjoon/0x09/5014/Solution.py)
 
 </details>
 <br />
@@ -229,7 +230,7 @@
 <br />
 
 <details>
-<summary>[0x0C] 백트래킹</summary>
+<summary>[0x0C] 백트래킹 👊🏻</summary>
 
 * <15649> - [문제](https://www.acmicpc.net/problem/15649) | [코드(Python)](./Baekjoon/0x0C/15649/Solution.py) | [코드2(Python)](./Baekjoon/0x0C/15649/Solution2.py)
 * <9663> - [문제](https://www.acmicpc.net/problem/9663) | [코드(Python)](./Baekjoon/0x0C/9663/Solution.py) | [코드2(Python)](./Baekjoon/0x0C/9663/Solution2.py)
