@@ -250,6 +250,8 @@
 * <15666> - [문제](https://www.acmicpc.net/problem/15666) | [코드(Python)](./Baekjoon/0x0C/15666/Solution.py)
 * <6603> - [문제](https://www.acmicpc.net/problem/6603) | [코드(Python)](./Baekjoon/0x0C/6603/Solution.py)
 * <1759> - [문제](https://www.acmicpc.net/problem/1759) | [코드(Python)](./Baekjoon/0x0C/1759/Solution.py)
+* <1941>
+* <16987> - [문제](https://www.acmicpc.net/problem/16987) | [코드(Python)](./Baekjoon/0x0C/16987/Solution.py)
 
 </details>
 <br />
