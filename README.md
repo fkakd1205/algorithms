@@ -236,7 +236,7 @@
 <br />
 
 <details>
-<summary>[0x0C] 백트래킹 👊🏻</summary>
+<summary>[0x0C] 백트래킹 </summary>
 
 * <15649> - [문제](https://www.acmicpc.net/problem/15649) | [코드(Python)](./Baekjoon/0x0C/15649/Solution.py) | [코드2(Python)](./Baekjoon/0x0C/15649/Solution2.py)
 * <9663> - [문제](https://www.acmicpc.net/problem/9663) | [코드(Python)](./Baekjoon/0x0C/9663/Solution.py) | [코드2(Python)](./Baekjoon/0x0C/9663/Solution2.py)
@@ -278,15 +278,15 @@
 <br />
 
 <details>
-<summary>[0x0E] 정렬I</summary>
+<summary>[0x0E] 정렬I ✔️</summary>
 
 * <2750> - [문제](https://www.acmicpc.net/problem/2750) | [코드(Python)](./Baekjoon/0x0E/2750/Solution.py)
 * <2751> - [문제](https://www.acmicpc.net/problem/2751) | [코드(Python)](./Baekjoon/0x0E/2751/Solution.py)
 * <10989> - [문제](https://www.acmicpc.net/problem/10989) | [코드(Python)](./Baekjoon/0x0E/10989/Solution.py)
-* <11931>
+* <11931> - [문제](https://www.acmicpc.net/problem/11931) | [코드(Python)](./Baekjoon/0x0E/11931/Solution.py)
 * <15688> - [문제](https://www.acmicpc.net/problem/15688) | [코드(Python)](./Baekjoon/0x0E/15688/Solution.py)
 * <10814> - [문제](https://www.acmicpc.net/problem/10814) | [코드(Python)](./Baekjoon/0x0E/10814/Solution.py)
-* <11650>
+* <11650> - [문제](https://www.acmicpc.net/problem/11650) | [코드(Python)](./Baekjoon/0x0E/11650/Solution.py)
 * <11651> - [문제](https://www.acmicpc.net/problem/11651) | [코드(Python)](./Baekjoon/0x0E/11651/Solution.py)
 
 </details>
