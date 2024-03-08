@@ -193,7 +193,7 @@
 <br />
 
 <details>
-<summary>[0x09] BFS 👊🏻</summary>
+<summary>[0x09] BFS 🏃🏻‍♀️</summary>
 
 * <1926> - [문제](https://www.acmicpc.net/problem/1926) | [코드(Python)](./Baekjoon/0x09/1926/Solution.py) | [코드2(Python)](./Baekjoon/0x09/1926/Solution2.py)
 * <2178> - [문제](https://www.acmicpc.net/problem/2178) | [코드(Python)](./Baekjoon/0x09/2178/Solution.py) | [코드2(Python)](./Baekjoon/0x09/2178/Solution2.py)
@@ -236,7 +236,7 @@
 <br />
 
 <details>
-<summary>[0x0C] 백트래킹 </summary>
+<summary>[0x0C] 백트래킹 👊🏻</summary>
 
 * <15649> - [문제](https://www.acmicpc.net/problem/15649) | [코드(Python)](./Baekjoon/0x0C/15649/Solution.py) | [코드2(Python)](./Baekjoon/0x0C/15649/Solution2.py)
 * <9663> - [문제](https://www.acmicpc.net/problem/9663) | [코드(Python)](./Baekjoon/0x0C/9663/Solution.py) | [코드2(Python)](./Baekjoon/0x0C/9663/Solution2.py)
@@ -263,7 +263,7 @@
 <br />
 
 <details>
-<summary>[0x0D] 시뮬레이션 👊🏻</summary>
+<summary>[0x0D] 시뮬레이션 🏃🏻‍♀️</summary>
 
 * <15683> - [문제](https://www.acmicpc.net/problem/15683) | [코드(Python)](./Baekjoon/0x0D/15683/Solution.py) | [코드2(Python)](./Baekjoon/0x0D/15683/Solution2.py)
 * <18808> - [문제](https://www.acmicpc.net/problem/18808) | [코드(Python)](./Baekjoon/0x0D/18808/Solution.py) | [코드2(Python)](./Baekjoon/0x0D/18808/Solution2.py)
@@ -273,6 +273,7 @@
 * <14891> - [문제](https://www.acmicpc.net/problem/14891) | [코드(Python)](./Baekjoon/0x0D/14891/Solution.py)
 * <14499> - [문제](https://www.acmicpc.net/problem/14499) | [코드(Python)](./Baekjoon/0x0D/14499/Solution.py)
 * <13335> - [문제](https://www.acmicpc.net/problem/13335) | [코드(Python)](./Baekjoon/0x0D/13335/Solution.py) | [코드2(Python)](./Baekjoon/0x0D/13335/Solution2.py)
+* <16985> - [문제](https://www.acmicpc.net/problem/16985) | [코드(Python)](./Baekjoon/0x0D/16985/Solution.py)
 
 </details>
 <br />
