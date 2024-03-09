@@ -294,12 +294,17 @@
 <br />
 
 <details>
-<summary>[0x0F] 정렬II</summary>
+<summary>[0x0F] 정렬II ✔️</summary>
 
-* <1431> - [문제](https://www.acmicpc.net/problem/1431) | [코드(Python)](./Baekjoon/0x0F/1431/Solution.py)
-* <11652> - [문제](https://www.acmicpc.net/problem/11652) | [코드(Python)](./Baekjoon/0x0F/11652/Solution.py)
-* <2910> - [문제](https://www.acmicpc.net/problem/2910) | [코드(Python)](./Baekjoon/0x0F/2910/Solution.py)
-* <7795> - [문제](https://www.acmicpc.net/problem/7795) | [코드(Python)](./Baekjoon/0x0F/7795/Solution.py)
+* <1431> - [문제](https://www.acmicpc.net/problem/1431) | [코드(Python)](./Baekjoon/0x0F/1431/Solution.py) | [코드2(Python)](./Baekjoon/0x0F/1431/Solution2.py)
+* <11652> - [문제](https://www.acmicpc.net/problem/11652) | [코드(Python)](./Baekjoon/0x0F/11652/Solution.py) | [코드2(Python)](./Baekjoon/0x0F/11652/Solution2.py)
+* <5648> - [문제](https://www.acmicpc.net/problem/5648) | [코드(Python)](./Baekjoon/0x0F/5648/Solution.py)
+* <1181> - [문제](https://www.acmicpc.net/problem/1181) | [코드(Python)](./Baekjoon/0x0F/1181/Solution.py)
+* <2910> - [문제](https://www.acmicpc.net/problem/2910) | [코드(Python)](./Baekjoon/0x0F/2910/Solution.py) | [코드2(Python)](./Baekjoon/0x0F/2910/Solution2.py)
+* <10814> - [문제](https://www.acmicpc.net/problem/10814) | [코드(Python)](./Baekjoon/0x0E/10814/Solution.py)
+* <11656> - [문제](https://www.acmicpc.net/problem/11656) | [코드(Python)](./Baekjoon/0x0F/11656/Solution.py)
+* <10825> - [문제](https://www.acmicpc.net/problem/10825) | [코드(Python)](./Baekjoon/0x0F/10825/Solution.py)
+* <7795> - [문제](https://www.acmicpc.net/problem/7795) | [코드(Python)](./Baekjoon/0x0F/7795/Solution.py) | [코드2(Python)](./Baekjoon/0x0F/7795/Solution2.py)
 
 </details>
 <br />
