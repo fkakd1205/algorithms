@@ -325,7 +325,10 @@
 * <11727> - [문제](https://www.acmicpc.net/problem/11727) | [코드(Python)](./Baekjoon/0x10/11727/Solution.py) | [코드2(Python)](./Baekjoon/0x10/11727/Solution2.py)
 * <2193> - [문제](https://www.acmicpc.net/problem/2193) | [코드(Python)](./Baekjoon/0x10/2193/Solution.py)
 * <1912> - [문제](https://www.acmicpc.net/problem/1912) | [코드(Python)](./Baekjoon/0x10/1912/Solution.py)
-* <14501> - [문제](https://www.acmicpc.net/problem/14501) | [코드(Python)](./Baekjoon/0x10/14501/Solution.py)
+* <11055> - [문제](https://www.acmicpc.net/problem/11055) | [코드(Python)](./Baekjoon/0x10/11055/Solution.py)
+* <11053> - [문제](https://www.acmicpc.net/problem/11053) | [코드(Python)](./Baekjoon/0x10/11053/Solution.py)
+* <9461> - [문제](https://www.acmicpc.net/problem/9461) | [코드(Python)](./Baekjoon/0x10/9461/Solution.py)
+* <14501> - [문제](https://www.acmicpc.net/problem/14501) | [코드(Python)](./Baekjoon/0x10/14501/Solution.py) | [코드2(Python)](./Baekjoon/0x10/14501/Solution2.py)
 
 </details>
 <br />
