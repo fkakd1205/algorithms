@@ -338,7 +338,7 @@
 <br />
 
 <details>
-<summary>[0x11] 그리디 🏃🏻‍♀️</summary>
+<summary>[0x11] 그리디 ✔️</summary>
 
 * <11047> - [문제](https://www.acmicpc.net/problem/11047) | [코드(Python)](./Baekjoon/0x11/11047/Solution.py) | [코드2(Python)](./Baekjoon/0x11/11047/Solution2.py)
 * <1931> - [문제](https://www.acmicpc.net/problem/1931) | [코드(Python)](./Baekjoon/0x11/1931/Solution.py) | [코드2(Python)](./Baekjoon/0x11/1931/Solution2.py)
@@ -356,6 +356,7 @@
 * <2170> - [문제](https://www.acmicpc.net/problem/2170) | [코드(Python)](./Baekjoon/0x11/2170/Solution.py)
 * <1700> - [문제](https://www.acmicpc.net/problem/1700) | [코드(Python)](./Baekjoon/0x11/1700/Solution.py)
 * <8980> - [문제](https://www.acmicpc.net/problem/8980) | [코드(Python)](./Baekjoon/0x11/8980/Solution.py)
+* <7570> - [문제](https://www.acmicpc.net/problem/7570) | [코드(Python)](./Baekjoon/0x11/7570/Solution.py)
 
 
 </details>
