@@ -363,14 +363,21 @@
 <br />
 
 <details>
-<summary>[0x12] 수학</summary>
+<summary>[0x12] 수학 🏃🏻‍♀️</summary>
 
 * <1978> - [문제](https://www.acmicpc.net/problem/1978) | [코드(Python)](./Baekjoon/0x12/1978/Solution.py) | [코드2(Python)](./Baekjoon/0x12/1978/Solution2.py)
 * <1929> - [문제](https://www.acmicpc.net/problem/1929) | [코드(Python)](./Baekjoon/0x12/1929/Solution.py)
 * <11653> - [문제](https://www.acmicpc.net/problem/11653) | [코드(Python)](./Baekjoon/0x12/11653/Solution.py) | [코드2(Python)](./Baekjoon/0x12/11653/Solution2.py)
+* <6064> - [문제](https://www.acmicpc.net/problem/6064) | [코드(Python)](./Baekjoon/0x12/6064/Solution.py)
 * <11050> - [문제](https://www.acmicpc.net/problem/11050) | [코드(Python)](./Baekjoon/0x12/11050/Solution.py)
-* <15894> - [문제](https://www.acmicpc.net/problem/15894) | [코드(Python)](./Baekjoon/0x12/15894/Solution.py)
+* <11051> - [문제](https://www.acmicpc.net/problem/11051) | [코드(Python)](./Baekjoon/0x12/11051/Solution.py)
+* <15894> - [문제](https://www.acmicpc.net/problem/15894) | [코드(Python)](./Baekjoon/0x12/15894/Solution.py) | [코드2(Python)](./Baekjoon/0x12/15894/Solution2.py)
 * <4796> - [문제](https://www.acmicpc.net/problem/4796) | [코드(Python)](./Baekjoon/0x12/4796/Solution.py)
+* <2960> - [문제](https://www.acmicpc.net/problem/2960) | [코드(Python)](./Baekjoon/0x12/2960/Solution.py)
+* <1193> - [문제](https://www.acmicpc.net/problem/1193) | [코드(Python)](./Baekjoon/0x12/1193/Solution.py)
+* <4948> - [문제](https://www.acmicpc.net/problem/4948) | [코드(Python)](./Baekjoon/0x12/4948/Solution.py)
+* <1676> - [문제](https://www.acmicpc.net/problem/1676) | [코드(Python)](./Baekjoon/0x12/1676/Solution.py)
+
 
 </details>
 <br />
