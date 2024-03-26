@@ -389,6 +389,8 @@
 * <10610> - [문제](https://www.acmicpc.net/problem/10610) | [코드(Python)](./Baekjoon/0x12/10610/Solution.py)
 * <6359> - [문제](https://www.acmicpc.net/problem/6359) | [코드(Python)](./Baekjoon/0x12/6359/Solution.py)
 * <10250> - [문제](https://www.acmicpc.net/problem/10250) | [코드(Python)](./Baekjoon/0x12/10250/Solution.py)
+* <1456> - [문제](https://www.acmicpc.net/problem/1456) | [코드(Python)](./Baekjoon/0x12/1456/Solution.py)
+* <2839> - [문제](https://www.acmicpc.net/problem/2839) | [코드(Python)](./Baekjoon/0x12/2839/Solution.py)
 
 
 </details>
