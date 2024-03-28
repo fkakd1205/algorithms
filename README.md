@@ -399,7 +399,7 @@
 <br />
 
 <details>
-<summary>[0x13] 이분탐색 🏃🏻‍♀️</summary>
+<summary>[0x13] 이분탐색 🏃🏻👊🏻</summary>
 
 * <1920> - [문제](https://www.acmicpc.net/problem/1920) | [코드(Python)](./Baekjoon/0x13/1920/Solution.py) | [코드2(Python)](./Baekjoon/0x13/1920/Solution2.py)
 * <10816> - [문제](https://www.acmicpc.net/problem/10816) | [코드(Python)](./Baekjoon/0x13/10816/Solution.py) | [코드2(Python)](./Baekjoon/0x13/10816/Solution2.py)
@@ -409,6 +409,8 @@
 * <10815> - [문제](https://www.acmicpc.net/problem/10815) | [코드(Python)](./Baekjoon/0x13/10815/Solution.py) | [코드2(Python)](./Baekjoon/0x13/10815/Solution2.py)
 * <1822> - [문제](https://www.acmicpc.net/problem/1822) | [코드(Python)](./Baekjoon/0x13/1822/Solution.py)
 * <16401> - [문제](https://www.acmicpc.net/problem/16401) | [코드(Python)](./Baekjoon/0x13/16401/Solution.py)
+* <2805> - [문제](https://www.acmicpc.net/problem/2805) | [코드(Python)](./Baekjoon/0x13/2805/Solution.py)
+* <18869> 
 
 </details>
 <br />
