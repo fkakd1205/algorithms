@@ -414,6 +414,8 @@
 * <16401> - [문제](https://www.acmicpc.net/problem/16401) | [코드(Python)](./Baekjoon/0x13/16401/Solution.py)
 * <2805> - [문제](https://www.acmicpc.net/problem/2805) | [코드(Python)](./Baekjoon/0x13/2805/Solution.py)
 * <18869> 
+* <2467> - [문제](https://www.acmicpc.net/problem/2467) | [코드(Python)](./Baekjoon/0x13/2467/Solution.py)
+* <1476> - [문제](https://www.acmicpc.net/problem/1476) | [코드(Python)](./Baekjoon/0x13/1476/Solution.py)
 
 </details>
 <br />
