@@ -402,7 +402,7 @@
 <br />
 
 <details>
-<summary>[0x13] 이분탐색 🏃🏻👊🏻</summary>
+<summary>[0x13] 이분탐색 🏃🏻‍♀️👊🏻</summary>
 
 * <1920> - [문제](https://www.acmicpc.net/problem/1920) | [코드(Python)](./Baekjoon/0x13/1920/Solution.py) | [코드2(Python)](./Baekjoon/0x13/1920/Solution2.py)
 * <10816> - [문제](https://www.acmicpc.net/problem/10816) | [코드(Python)](./Baekjoon/0x13/10816/Solution.py) | [코드2(Python)](./Baekjoon/0x13/10816/Solution2.py)
@@ -421,12 +421,15 @@
 <br />
 
 <details>
-<summary>[0x14] 투 포인터</summary>
+<summary>[0x14] 투 포인터 🏃🏻‍♀️</summary>
 
 * <2230> - [문제](https://www.acmicpc.net/problem/2230) | [코드(Python)](./Baekjoon/0x14/2230/Solution.py) | [코드2(Python)](./Baekjoon/0x14/2230/Solution2.py)
 * <1806> - [문제](https://www.acmicpc.net/problem/1806) | [코드(Python)](./Baekjoon/0x14/1806/Solution.py) | [코드2(Python)](./Baekjoon/0x14/1806/Solution2.py)
 * <1644> - [문제](https://www.acmicpc.net/problem/1644) | [코드(Python)](./Baekjoon/0x14/1644/Solution.py) | [코드2(Python)](./Baekjoon/0x14/1644/Solution2.py)
 * <2003> - [문제](https://www.acmicpc.net/problem/2003) | [코드(Python)](./Baekjoon/0x14/2003/Solution.py) | [코드2(Python)](./Baekjoon/0x14/2003/Solution2.py)
+* <13144> - [문제](https://www.acmicpc.net/problem/13144) | [코드(Python)](./Baekjoon/0x14/13144/Solution.py)
+* <22862> - [문제](https://www.acmicpc.net/problem/22862) | [코드(Python)](./Baekjoon/0x14/22862/Solution.py)
+* <2531> - [문제](https://www.acmicpc.net/problem/2531) | [코드(Python)](./Baekjoon/0x14/2531/Solution.py)
 
 </details>
 <br />
