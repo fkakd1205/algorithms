@@ -437,7 +437,7 @@
 <br />
 
 <details>
-<summary>[0x15] 해시 🏃🏻‍♀️</summary>
+<summary>[0x15] 해시 ✔️</summary>
 
 * <7785> - [문제](https://www.acmicpc.net/problem/7785) | [코드(Python)](./Baekjoon/0x15/7785/Solution.py) | [코드2(Python)](./Baekjoon/0x15/7785/Solution2.py)
 * <1620> - [문제](https://www.acmicpc.net/problem/1620) | [코드(Python)](./Baekjoon/0x15/1620/Solution.py) | [코드2(Python)](./Baekjoon/0x15/1620/Solution2.py)
@@ -445,6 +445,10 @@
 * <17219> - [문제](https://www.acmicpc.net/problem/17219) | [코드(Python)](./Baekjoon/0x15/17219/Solution.py) | [코드2(Python)](./Baekjoon/0x15/17219/Solution2.py)
 * <9375> - [문제](https://www.acmicpc.net/problem/9375) | [코드(Python)](./Baekjoon/0x15/9375/Solution.py) | [코드2(Python)](./Baekjoon/0x15/9375/Solution2.py)
 * <16165> - [문제](https://www.acmicpc.net/problem/16165) | [코드(Python)](./Baekjoon/0x15/16165/Solution.py)
+* <11478> - [문제](https://www.acmicpc.net/problem/11478) | [코드(Python)](./Baekjoon/0x15/11478/Solution.py)
+* <19583> - [문제](https://www.acmicpc.net/problem/19583) | [코드(Python)](./Baekjoon/0x15/19583/Solution.py)
+* <20166> - [문제](https://www.acmicpc.net/problem/20166) | [코드(Python)](./Baekjoon/0x15/20166/Solution.py)
+* <1351> - [문제](https://www.acmicpc.net/problem/1351) | [코드(Python)](./Baekjoon/0x15/1351/Solution.py)
 
 </details>
 <br />
