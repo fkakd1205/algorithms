@@ -454,11 +454,12 @@
 <br />
 
 <details>
-<summary>[0x16] 이진 검색 트리</summary>
+<summary>[0x16] 이진 검색 트리 🏃🏻‍♀️</summary>
 
-* <7662> - [문제](https://www.acmicpc.net/problem/7662) | [코드(Python)](./Baekjoon/0x16/7662/Solution.py)
-* <1202> - [문제](https://www.acmicpc.net/problem/1202) | [코드(Python)](./Baekjoon/0x16/1202/Solution.py)
+* <7662> - [문제](https://www.acmicpc.net/problem/7662) | [코드(Python)](./Baekjoon/0x16/7662/Solution.py) | [코드2(Python)](./Baekjoon/0x16/7662/Solution2.py)
+* <1202> - [문제](https://www.acmicpc.net/problem/1202) | [코드(Python)](./Baekjoon/0x16/1202/Solution.py) | [코드2(Python)](./Baekjoon/0x16/1202/Solution2.py)
 * <21939> - [문제](https://www.acmicpc.net/problem/21939) | [코드(Python)](./Baekjoon/0x16/21939/Solution.py)
+ | [코드2(Python)](./Baekjoon/0x16/21939/Solution2.py)
 
 </details>
 <br />
