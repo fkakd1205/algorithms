@@ -454,7 +454,7 @@
 <br />
 
 <details>
-<summary>[0x16] 이진 검색 트리 🏃🏻‍♀️👊🏻</summary>
+<summary>[0x16] 이진 검색 트리 🏃🏻👊🏻</summary>
 
 * <7662> - [문제](https://www.acmicpc.net/problem/7662) | [코드(Python)](./Baekjoon/0x16/7662/Solution.py) | [코드2(Python)](./Baekjoon/0x16/7662/Solution2.py)
 * <1202> - [문제](https://www.acmicpc.net/problem/1202) | [코드(Python)](./Baekjoon/0x16/1202/Solution.py) | [코드2(Python)](./Baekjoon/0x16/1202/Solution2.py)
@@ -462,6 +462,8 @@
  | [코드2(Python)](./Baekjoon/0x16/21939/Solution2.py)
 * <23326>
 * <21944>
+* <19700>
+* <1539>
 
 </details>
 <br />
@@ -470,9 +472,11 @@
 <summary>[0x17] 우선순위 큐 🏃🏻‍♀️</summary>
 
 * <11286> - [문제](https://www.acmicpc.net/problem/11286) | [코드(Python)](./Baekjoon/0x17/11286/Solution.py) | [코드2(Python)](./Baekjoon/0x17/11286/Solution2.py)
-* <1715> - [문제](https://www.acmicpc.net/problem/1715) | [코드(Python)](./Baekjoon/0x17/1715/Solution.py)
-* <1927> - [문제](https://www.acmicpc.net/problem/1927) | [코드(Python)](./Baekjoon/0x17/1927/Solution.py)
-* <2075> - [문제](https://www.acmicpc.net/problem/2075) | [코드(Python)](./Baekjoon/0x17/2075/Solution.py)
+* <1715> - [문제](https://www.acmicpc.net/problem/1715) | [코드(Python)](./Baekjoon/0x17/1715/Solution.py) | [코드2(Python)](./Baekjoon/0x17/1715/Solution2.py)
+* <1927> - [문제](https://www.acmicpc.net/problem/1927) | [코드(Python)](./Baekjoon/0x17/1927/Solution.py) | [코드2(Python)](./Baekjoon/0x17/1927/Solution2.py)
+* <2075> - [문제](https://www.acmicpc.net/problem/2075) | [코드(Python)](./Baekjoon/0x17/2075/Solution.py) | [코드2(Python)](./Baekjoon/0x17/2075/Solution2.py)
+* <11279> - [문제](https://www.acmicpc.net/problem/11279) | [코드(Python)](./Baekjoon/0x17/11279/Solution.py)
+* <13975> - [문제](https://www.acmicpc.net/problem/13975) | [코드(Python)](./Baekjoon/0x17/13975/Solution.py)
 
 </details>
 <br />
