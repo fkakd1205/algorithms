@@ -469,7 +469,7 @@
 <br />
 
 <details>
-<summary>[0x17] 우선순위 큐 🏃🏻‍♀️</summary>
+<summary>[0x17] 우선순위 큐 ✔️</summary>
 
 * <11286> - [문제](https://www.acmicpc.net/problem/11286) | [코드(Python)](./Baekjoon/0x17/11286/Solution.py) | [코드2(Python)](./Baekjoon/0x17/11286/Solution2.py)
 * <1715> - [문제](https://www.acmicpc.net/problem/1715) | [코드(Python)](./Baekjoon/0x17/1715/Solution.py) | [코드2(Python)](./Baekjoon/0x17/1715/Solution2.py)
@@ -477,6 +477,8 @@
 * <2075> - [문제](https://www.acmicpc.net/problem/2075) | [코드(Python)](./Baekjoon/0x17/2075/Solution.py) | [코드2(Python)](./Baekjoon/0x17/2075/Solution2.py)
 * <11279> - [문제](https://www.acmicpc.net/problem/11279) | [코드(Python)](./Baekjoon/0x17/11279/Solution.py)
 * <13975> - [문제](https://www.acmicpc.net/problem/13975) | [코드(Python)](./Baekjoon/0x17/13975/Solution.py)
+* <1655> - [문제](https://www.acmicpc.net/problem/1655) | [코드(Python)](./Baekjoon/0x17/1655/Solution.py)
+* <1781> - [문제](https://www.acmicpc.net/problem/1781) | [코드(Python)](./Baekjoon/0x17/1781/Solution.py)
 
 </details>
 <br />
