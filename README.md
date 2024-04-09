@@ -454,7 +454,7 @@
 <br />
 
 <details>
-<summary>[0x16] 이진 검색 트리 🏃🏻👊🏻</summary>
+<summary>[0x16] 이진 검색 트리 👊🏻</summary>
 
 * <7662> - [문제](https://www.acmicpc.net/problem/7662) | [코드(Python)](./Baekjoon/0x16/7662/Solution.py) | [코드2(Python)](./Baekjoon/0x16/7662/Solution2.py)
 * <1202> - [문제](https://www.acmicpc.net/problem/1202) | [코드(Python)](./Baekjoon/0x16/1202/Solution.py) | [코드2(Python)](./Baekjoon/0x16/1202/Solution2.py)
@@ -484,11 +484,11 @@
 <br />
 
 <details>
-<summary>[0x18] 그래프</summary>
+<summary>[0x18] 그래프 🏃🏻</summary>
 
-* <11724> - [문제](https://www.acmicpc.net/problem/11724) | [코드(Python)](./Baekjoon/0x18/11724/Solution.py)
-* <1260> - [문제](https://www.acmicpc.net/problem/1260) | [코드(Python)](./Baekjoon/0x18/1260/Solution.py)
-* <2606> - [문제](https://www.acmicpc.net/problem/2606) | [코드(Python)](./Baekjoon/0x18/2606/Solution.py)
+* <11724> - [문제](https://www.acmicpc.net/problem/11724) | [코드(Python)](./Baekjoon/0x18/11724/Solution.py) | [코드2(Python)](./Baekjoon/0x18/11724/Solution2.py)
+* <1260> - [문제](https://www.acmicpc.net/problem/1260) | [코드(Python)](./Baekjoon/0x18/1260/Solution.py) | [코드2(Python)](./Baekjoon/0x18/1260/Solution2.py)
+* <2606> - [문제](https://www.acmicpc.net/problem/2606) | [코드(Python)](./Baekjoon/0x18/2606/Solution.py) | [코드2(Python)](./Baekjoon/0x18/2606/Solution2.py)
 * <5567> - [문제](https://www.acmicpc.net/problem/5567) | [코드(Python)](./Baekjoon/0x18/5567/Solution.py)
 
 </details>
