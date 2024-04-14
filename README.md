@@ -495,6 +495,7 @@
 * <1389> - [문제](https://www.acmicpc.net/problem/1389) | [코드(Python)](./Baekjoon/0x18/1389/Solution.py)
 * <1325> - [문제](https://www.acmicpc.net/problem/1325) | [코드(Python)](./Baekjoon/0x18/1325/Solution.py)
 * <6118> - [문제](https://www.acmicpc.net/problem/6118) | [코드(Python)](./Baekjoon/0x18/6118/Solution.py)
+* <1707> - [문제](https://www.acmicpc.net/problem/1707) | [코드(Python)](./Baekjoon/0x18/1707/Solution.py)
 
 </details>
 <br />
