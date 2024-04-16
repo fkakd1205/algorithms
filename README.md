@@ -520,9 +520,10 @@
 <details>
 <summary>[0x1A] 위상 정렬</summary>
 
-* <2252> - [문제](https://www.acmicpc.net/problem/2252) | [코드(Python)](./Baekjoon/0x1A/2252/Solution.py)
-* <2623> - [문제](https://www.acmicpc.net/problem/2623) | [코드(Python)](./Baekjoon/0x1A/2623/Solution.py)
-* <21276> - [문제](https://www.acmicpc.net/problem/21276) | [코드(Python)](./Baekjoon/0x1A/21276/Solution.py)
+* <2252> - [문제](https://www.acmicpc.net/problem/2252) | [코드(Python)](./Baekjoon/0x1A/2252/Solution.py) | [코드2(Python)](./Baekjoon/0x1A/2252/Solution2.py)
+* <2623> - [문제](https://www.acmicpc.net/problem/2623) | [코드(Python)](./Baekjoon/0x1A/2623/Solution.py) | [코드2(Python)](./Baekjoon/0x1A/2623/Solution2.py)
+* <21276> - [문제](https://www.acmicpc.net/problem/21276) | [코드(Python)](./Baekjoon/0x1A/21276/Solution.py) | [코드2(Python)](./Baekjoon/0x1A/21276/Solution2.py)
+* <1766> - [문제](https://www.acmicpc.net/problem/1766) | [코드(Python)](./Baekjoon/0x1A/1766/Solution.py)
 
 </details>
 <br />
