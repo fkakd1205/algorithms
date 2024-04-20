@@ -535,7 +535,7 @@
 <summary>[0x1B] 최소 신장 트리</summary>
 
 * <1197> - [문제](https://www.acmicpc.net/problem/1197) | [코드(Python)](./Baekjoon/0x1B/1197/Solution.py) | [코드2(Python)](./Baekjoon/0x1B/1197/Solution2.py)
-* <1368> - [문제](https://www.acmicpc.net/problem/1368) | [코드(Python)](./Baekjoon/0x1B/1368/Solution.py)
+* <1368> - [문제](https://www.acmicpc.net/problem/1368) | [코드(Python)](./Baekjoon/0x1B/1368/Solution.py) | [코드2(Python)](./Baekjoon/0x1B/1368/Solution2.py)
 * <9372> - [문제](https://www.acmicpc.net/problem/9372) | [코드(Python)](./Baekjoon/0x1B/9372/Solution.py) | [코드2(Python)](./Baekjoon/0x1B/9372/Solution2.py)
 * <16398> - [문제](https://www.acmicpc.net/problem/16398) | [코드(Python)](./Baekjoon/0x1B/16398/Solution.py)
 
