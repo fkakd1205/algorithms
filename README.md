@@ -554,6 +554,8 @@
 * <11780> - [문제](https://www.acmicpc.net/problem/11780) | [코드(Python)](./Baekjoon/0x1C/11780/Solution.py) | [코드2(Python)](./Baekjoon/0x1C/11780/Solution2.py)
 * <14938> - [문제](https://www.acmicpc.net/problem/14938) | [코드(Python)](./Baekjoon/0x1C/14938/Solution.py) | [코드2(Python)](./Baekjoon/0x1C/14938/Solution2.py)
 * <21940> - [문제](https://www.acmicpc.net/problem/21940) | [코드(Python)](./Baekjoon/0x1C/21940/Solution.py)
+* <17182> - [문제](https://www.acmicpc.net/problem/17182) | [코드(Python)](./Baekjoon/0x1C/17182/Solution.py)
+* <13168>
 
 </details>
 <br />
