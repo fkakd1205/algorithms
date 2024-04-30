@@ -568,7 +568,9 @@
 * <1753> - [문제](https://www.acmicpc.net/problem/1753) | [코드(Python)](./Baekjoon/0x1D/1753/Solution.py) | [코드2(Python)](./Baekjoon/0x1D/1753/Solution2.py)
 * <11779> - [문제](https://www.acmicpc.net/problem/11779) | [코드(Python)](./Baekjoon/0x1D/11779/Solution.py) | [코드2(Python)](./Baekjoon/0x1D/11779/Solution2.py)
 * <1238> - [문제](https://www.acmicpc.net/problem/1238) | [코드(Python)](./Baekjoon/0x1D/1238/Solution.py) | [코드2(Python)](./Baekjoon/0x1D/1238/Solution2.py)
-* <1504> - [문제](https://www.acmicpc.net/problem/1504) | [코드(Python)](./Baekjoon/0x1D/1504/Solution.py)
+* <1504> - [문제](https://www.acmicpc.net/problem/1504) | [코드(Python)](./Baekjoon/0x1D/1504/Solution.py) | [코드2(Python)](./Baekjoon/0x1D/1504/Solution2.py)
+* <1916> - [문제](https://www.acmicpc.net/problem/1916) | [코드(Python)](./Baekjoon/0x1D/1916/Solution.py)
+* <1261> - [문제](https://www.acmicpc.net/problem/1261) | [코드(Python)](./Baekjoon/0x1D/1261/Solution.py)
 
 </details>
 <br />
