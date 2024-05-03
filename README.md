@@ -95,7 +95,8 @@
 
 <br />
 
-<hr />
+### [해시](./Programmers/hash)
+
 <details>
 <summary>프로그래머스 > 알고리즘 고득점 Kit > 해시</summary>
 
@@ -103,11 +104,10 @@
 * <완주하지 못한 선수> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42576) | [코드](./Programmers/hash/완주하지못한선수/Solution.py)
 * <전화번호 목록> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42577) | [코드](./Programmers/hash/전화번호목록/Solution.py)
 
-</deatils>
+</details>
 
 <br />
-
-<hr />
+<br />
 
 ## 2. [Baekjoon](./Baekjoon)
 ### 백준 문제 및 코드
