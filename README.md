@@ -108,6 +108,14 @@
 
 </details>
 
+<details>
+<summary>스택/큐 </summary>
+
+* <같은 숫자는 싫어> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12906) | [코드](./Programmers/stack_queue/같은숫자는싫어/Solution.py)
+* <기능개발> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42586) | [코드](./Programmers/stack_queue/기능개발/Solution.py)
+
+</details>
+
 <br />
 <br />
 
