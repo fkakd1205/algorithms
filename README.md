@@ -95,14 +95,16 @@
 
 <br />
 
-### [해시](./Programmers/hash)
+### [알고리즘 고득점 Kit](./Programmers/hash)
 
 <details>
-<summary>프로그래머스 > 알고리즘 고득점 Kit > 해시</summary>
+<summary>해시 ✔️</summary>
 
 * <폰켓몬> - [문제](https://programmers.co.kr/learn/courses/30/lessons/1845) | [코드](./Programmers/hash/폰켓몬/Solution.py)
 * <완주하지 못한 선수> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42576) | [코드](./Programmers/hash/완주하지못한선수/Solution.py)
 * <전화번호 목록> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42577) | [코드](./Programmers/hash/전화번호목록/Solution.py)
+* <의상> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42578) | [코드](./Programmers/hash/의상/Solution.py)
+* <베스트앨범> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42579) | [코드](./Programmers/hash/베스트앨범/Solution.py)
 
 </details>
 
