@@ -120,6 +120,15 @@
 
 </details>
 
+<details>
+<summary>힙 ✔️</summary>
+
+* <더 맵게> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42626) | [코드](./Programmers/heap/더맵게/Solution.py)
+* <디스크 컨트롤러> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42627) | [코드](./Programmers/heap/디스크컨트롤러/Solution.py)
+* <이중우선순위큐> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42628) | [코드](./Programmers/heap/이중우선순위큐/Solution.py)
+
+</details>
+
 <br />
 <br />
 
