@@ -109,10 +109,14 @@
 </details>
 
 <details>
-<summary>스택/큐 </summary>
+<summary>스택/큐 ✔️</summary>
 
 * <같은 숫자는 싫어> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12906) | [코드](./Programmers/stack_queue/같은숫자는싫어/Solution.py)
 * <기능개발> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42586) | [코드](./Programmers/stack_queue/기능개발/Solution.py)
+* <올바른 괄호> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12909) | [코드](./Programmers/stack_queue/올바른괄호/Solution.py)
+* <프로세스> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42587) | [코드](./Programmers/stack_queue/프로세스/Solution.py)
+* <다리를 지나는 트럭> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42583) | [코드](./Programmers/stack_queue/다리를지나는트럭/Solution.py)
+* <주식가격> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42584) | [코드](./Programmers/stack_queue/주식가격/Solution.py)
 
 </details>
 
