@@ -138,6 +138,15 @@
 
 </details>
 
+<details>
+<summary>완전탐색 🏃🏻‍♀️</summary>
+
+* <최소직사각형> - [문제](https://programmers.co.kr/learn/courses/30/lessons/86491) | [코드](./Programmers/exhaustive_search/최소직사각형/Solution.py)
+* <모의고사> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42840) | [코드](./Programmers/exhaustive_search/모의고사/Solution.py)
+* <소수찾기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42839) | [코드](./Programmers/exhaustive_search/소수찾기/Solution.py)
+
+</details>
+
 <br />
 <br />
 
