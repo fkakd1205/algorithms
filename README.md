@@ -139,7 +139,7 @@
 </details>
 
 <details>
-<summary>완전탐색 🏃🏻‍♀️</summary>
+<summary>완전탐색 ✔️</summary>
 
 * <최소직사각형> - [문제](https://programmers.co.kr/learn/courses/30/lessons/86491) | [코드](./Programmers/exhaustive_search/최소직사각형/Solution.py)
 * <모의고사> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42840) | [코드](./Programmers/exhaustive_search/모의고사/Solution.py)
@@ -147,6 +147,7 @@
 * <카펫> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42842) | [코드](./Programmers/exhaustive_search/카펫/Solution.py)
 * <피로도> - [문제](https://programmers.co.kr/learn/courses/30/lessons/87946) | [코드](./Programmers/exhaustive_search/피로도/Solution.py)
 * <전력망을 둘로 나누기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/86971) | [코드](./Programmers/exhaustive_search/전력망을둘로나누기/Solution.py)
+* <모음사전> - [문제](https://programmers.co.kr/learn/courses/30/lessons/84512) | [코드](./Programmers/exhaustive_search/모음사전/Solution.py)
 
 </details>
 
