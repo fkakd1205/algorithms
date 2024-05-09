@@ -151,6 +151,15 @@
 
 </details>
 
+<details>
+<summary>탐욕법 🏃🏻‍♀️</summary>
+
+* <체육복> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42862) | [코드](./Programmers/greedy/체육복/Solution.py)
+* <조이스틱> 👊🏻
+* <큰 수 만들기> 👊🏻
+
+</details>
+
 <br />
 <br />
 
