@@ -152,12 +152,14 @@
 </details>
 
 <details>
-<summary>탐욕법 🏃🏻‍♀️</summary>
+<summary>탐욕법 👊🏻</summary>
 
 * <체육복> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42862) | [코드](./Programmers/greedy/체육복/Solution.py)
 * <조이스틱> 👊🏻
 * <큰 수 만들기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42883) | [코드](./Programmers/greedy/큰수만들기/Solution.py)
 * <구명보트> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42885) | [코드](./Programmers/greedy/구명보트/Solution.py)
+* <섬 연결하기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42861) | [코드](./Programmers/greedy/섬연결하기/Solution.py)
+* <단속카메라> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42884) | [코드](./Programmers/greedy/단속카메라/Solution.py)
 
 </details>
 
