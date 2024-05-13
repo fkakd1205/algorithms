@@ -171,6 +171,13 @@
 
 </details>
 
+<details>
+<summary>깊이/너비 우선 탐색(DFS/BFS) 🏃🏻‍♀️</summary>
+
+* <타겟넘버> - [문제](https://programmers.co.kr/learn/courses/30/lessons/43165) | [코드](./Programmers/dfs_bfs/타겟넘버/Solution.py)
+
+</details>
+
 <br />
 <br />
 
