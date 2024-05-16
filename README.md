@@ -169,6 +169,8 @@
 * <N으로 표현> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42895) | [코드](./Programmers/dp/N으로표현/Solution.py)
 * <정수 삼각형> - [문제](https://programmers.co.kr/learn/courses/30/lessons/43105) | [코드](./Programmers/dp/정수삼각형/Solution.py)
 * <등굣길> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42898) | [코드](./Programmers/dp/등굣길/Solution.py)
+* <사칙연산>
+* <도둑질> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42897) | [코드](./Programmers/dp/도둑질/Solution.py)
 
 </details>
 
@@ -178,6 +180,9 @@
 * <타겟넘버> - [문제](https://programmers.co.kr/learn/courses/30/lessons/43165) | [코드](./Programmers/dfs_bfs/타겟넘버/Solution.py)
 * <네트워크> - [문제](https://programmers.co.kr/learn/courses/30/lessons/43162) | [코드](./Programmers/dfs_bfs/네트워크/Solution.py)
 * <게임 맵 최단거리> - [문제](https://programmers.co.kr/learn/courses/30/lessons/1844) | [코드](./Programmers/dfs_bfs/게임맵최단거리/Solution.py)
+* <단어변환> - [문제](https://programmers.co.kr/learn/courses/30/lessons/43163) | [코드](./Programmers/dfs_bfs/단어변환/Solution.py)
+* <아이템 줍기> 
+* <여행경로> - [문제](https://programmers.co.kr/learn/courses/30/lessons/43164) | [코드](./Programmers/dfs_bfs/여행경로/Solution.py)
 
 </details>
 
