@@ -170,7 +170,6 @@
 * <정수 삼각형> - [문제](https://programmers.co.kr/learn/courses/30/lessons/43105) | [코드](./Programmers/dp/정수삼각형/Solution.py)
 * <등굣길> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42898) | [코드](./Programmers/dp/등굣길/Solution.py)
 * <사칙연산>
-* <도둑질> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42897) | [코드](./Programmers/dp/도둑질/Solution.py)
 
 </details>
 
@@ -183,6 +182,13 @@
 * <단어변환> - [문제](https://programmers.co.kr/learn/courses/30/lessons/43163) | [코드](./Programmers/dfs_bfs/단어변환/Solution.py)
 * <아이템 줍기> 
 * <여행경로> - [문제](https://programmers.co.kr/learn/courses/30/lessons/43164) | [코드](./Programmers/dfs_bfs/여행경로/Solution.py)
+
+</details>
+
+<details>
+<summary>이분탐색 🏃🏻</summary>
+
+* <입국심사> - [문제](https://programmers.co.kr/learn/courses/30/lessons/43238) | [코드](./Programmers/binary_search/입국심사/Solution.py)
 
 </details>
 
