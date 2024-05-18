@@ -196,6 +196,7 @@
 <summary>그래프 🏃🏻</summary>
 
 * <가장 먼 노드> - [문제](https://programmers.co.kr/learn/courses/30/lessons/49189) | [코드](./Programmers/graph/가장먼노드/Solution.py)
+* <순위> - [문제](https://programmers.co.kr/learn/courses/30/lessons/49191) | [코드](./Programmers/graph/순위/Solution.py)
 
 </details>
 
