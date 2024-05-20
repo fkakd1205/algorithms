@@ -164,12 +164,13 @@
 </details>
 
 <details>
-<summary>동적계획법(DP) 🏃🏻‍♀️</summary>
+<summary>동적계획법(DP) 👊🏻</summary>
 
 * <N으로 표현> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42895) | [코드](./Programmers/dp/N으로표현/Solution.py)
 * <정수 삼각형> - [문제](https://programmers.co.kr/learn/courses/30/lessons/43105) | [코드](./Programmers/dp/정수삼각형/Solution.py)
 * <등굣길> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42898) | [코드](./Programmers/dp/등굣길/Solution.py)
-* <사칙연산>
+* <사칙연산> 👊🏻
+* <도둑질> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42897) | [코드](./Programmers/dp/도둑질/Solution.py)
 
 </details>
 
