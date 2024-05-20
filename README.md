@@ -186,9 +186,10 @@
 </details>
 
 <details>
-<summary>이분탐색 🏃🏻</summary>
+<summary>이분탐색 ✔️</summary>
 
 * <입국심사> - [문제](https://programmers.co.kr/learn/courses/30/lessons/43238) | [코드](./Programmers/binary_search/입국심사/Solution.py)
+* <징검다리> - [문제](https://programmers.co.kr/learn/courses/30/lessons/43236) | [코드](./Programmers/binary_search/징검다리/Solution.py)
 
 </details>
 
