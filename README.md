@@ -90,6 +90,9 @@
 * <H - Index> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42747) | [코드](./Programmers/Level2/H-Index/Solution.java)
 * <전화번호 목록> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42577) | [코드](./Programmers/Level2/전화번호목록/Solution.java)
 * <행렬의 곱셈> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12949) | [코드](./Programmers/Level2/행렬의곱셈/Solution.java)
+* <튜플> - [문제](https://programmers.co.kr/learn/courses/30/lessons/64065) | [코드](./Programmers/Level2/튜플/Solution.py)
+* <멀리 뛰기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12914) | [코드](./Programmers/Level2/멀리뛰기/Solution.py)
+
 
 </details>
 
