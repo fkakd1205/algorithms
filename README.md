@@ -92,6 +92,8 @@
 * <행렬의 곱셈> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12949) | [코드](./Programmers/Level2/행렬의곱셈/Solution.java)
 * <튜플> - [문제](https://programmers.co.kr/learn/courses/30/lessons/64065) | [코드](./Programmers/Level2/튜플/Solution.py)
 * <멀리 뛰기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12914) | [코드](./Programmers/Level2/멀리뛰기/Solution.py)
+* <귤 고르기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/138476) | [코드](./Programmers/Level2/귤고르기/Solution.py)
+* <1차캐시> - [문제](https://programmers.co.kr/learn/courses/30/lessons/17680) | [코드](./Programmers/Level2/1차캐시/Solution.py)
 
 
 </details>
