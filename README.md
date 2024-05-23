@@ -94,6 +94,8 @@
 * <멀리 뛰기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12914) | [코드](./Programmers/Level2/멀리뛰기/Solution.py)
 * <귤 고르기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/138476) | [코드](./Programmers/Level2/귤고르기/Solution.py)
 * <1차캐시> - [문제](https://programmers.co.kr/learn/courses/30/lessons/17680) | [코드](./Programmers/Level2/1차캐시/Solution.py)
+* <할인행사> - [문제](https://programmers.co.kr/learn/courses/30/lessons/131127) | [코드](./Programmers/Level2/할인행사/Solution.py)
+* <뉴스클러스터링> - [문제](https://programmers.co.kr/learn/courses/30/lessons/17677) | [코드](./Programmers/Level2/뉴스클러스터링/Solution.py)
 
 
 </details>
