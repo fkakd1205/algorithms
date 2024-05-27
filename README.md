@@ -97,6 +97,8 @@
 * <할인행사> - [문제](https://programmers.co.kr/learn/courses/30/lessons/131127) | [코드](./Programmers/Level2/할인행사/Solution.py)
 * <뉴스클러스터링> - [문제](https://programmers.co.kr/learn/courses/30/lessons/17677) | [코드](./Programmers/Level2/뉴스클러스터링/Solution.py)
 * <k진수에서소수개수구하기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/92335) | [코드](./Programmers/Level2/k진수에서소수개수구하기/Solution.py)
+* <n진수 게임> - [문제](https://programmers.co.kr/learn/courses/30/lessons/17687) | [코드](./Programmers/Level2/n진수게임/Solution.py)
+* <방문 길이> - [문제](https://programmers.co.kr/learn/courses/30/lessons/49994) | [코드](./Programmers/Level2/방문길이/Solution.py)
 
 
 </details>
