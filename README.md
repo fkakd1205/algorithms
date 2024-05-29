@@ -99,6 +99,8 @@
 * <k진수에서소수개수구하기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/92335) | [코드](./Programmers/Level2/k진수에서소수개수구하기/Solution.py)
 * <n진수 게임> - [문제](https://programmers.co.kr/learn/courses/30/lessons/17687) | [코드](./Programmers/Level2/n진수게임/Solution.py)
 * <방문 길이> - [문제](https://programmers.co.kr/learn/courses/30/lessons/49994) | [코드](./Programmers/Level2/방문길이/Solution.py)
+* <롤케이크 자르기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/132265) | [코드](./Programmers/Level2/롤케이크자르기/Solution.py)
+* <주차 요금 계산> - [문제](https://programmers.co.kr/learn/courses/30/lessons/92341) | [코드](./Programmers/Level2/주차요금계산/Solution.py)
 
 
 </details>
