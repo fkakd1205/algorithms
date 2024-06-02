@@ -104,6 +104,7 @@
 * <땅따먹기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12913) | [코드](./Programmers/Level2/땅따먹기/Solution.py)
 * <배달> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12978) | [코드](./Programmers/Level2/배달/Solution.py)
 * <숫자 카드 나누기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/135807) | [코드](./Programmers/Level2/숫자카드나누기/Solution.py)
+* <뒤에 있는 큰 수 찾기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/154539) | [코드](./Programmers/Level2/뒤에있는큰수찾기/Solution.py)
 
 
 </details>
