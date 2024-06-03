@@ -64,7 +64,7 @@
 
 <br />
 
-### [Level2](./Programmers/Level1)
+### [Level2](./Programmers/Level2)
 
 <details>
 <summary> 프로그래머스 > 코딩테스트 연습 > Level2 </summary>
@@ -106,6 +106,17 @@
 * <숫자 카드 나누기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/135807) | [코드](./Programmers/Level2/숫자카드나누기/Solution.py)
 * <뒤에 있는 큰 수 찾기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/154539) | [코드](./Programmers/Level2/뒤에있는큰수찾기/Solution.py)
 
+</details>
+
+<br />
+
+### [Level3](./Programmers/Level3)
+
+<details>
+<summary> 프로그래머스 > 코딩테스트 연습 > Level3 </summary>
+
+* <숫자 게임> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12987) | [코드](./Programmers/Level3/숫자게임/Solution.py)
+* <최고의 집합> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12938) | [코드](./Programmers/Level3/최고의집합/Solution.py)
 
 </details>
 
