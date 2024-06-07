@@ -107,6 +107,7 @@
 * <뒤에 있는 큰 수 찾기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/154539) | [코드](./Programmers/Level2/뒤에있는큰수찾기/Solution.py)
 * <n^2 배열 자르기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/87390) | [코드](./Programmers/Level2/n^2배열자르기/Solution.py)
 * <택배상자> - [문제](https://programmers.co.kr/learn/courses/30/lessons/131704) | [코드](./Programmers/Level2/택배상자/Solution.py)
+* <괄호 회전하기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/76502) | [코드](./Programmers/Level2/괄호회전하기/Solution.py)
 
 </details>
 
@@ -120,6 +121,7 @@
 * <숫자 게임> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12987) | [코드](./Programmers/Level3/숫자게임/Solution.py)
 * <최고의 집합> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12938) | [코드](./Programmers/Level3/최고의집합/Solution.py)
 * <야근 지수> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12927) | [코드](./Programmers/Level3/야근지수/Solution.py)
+* <기지국 설치> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12979) | [코드](./Programmers/Level3/기지국설치/Solution.py)
 
 </details>
 
