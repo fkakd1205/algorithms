@@ -108,6 +108,7 @@
 * <n^2 배열 자르기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/87390) | [코드](./Programmers/Level2/n^2배열자르기/Solution.py)
 * <택배상자> - [문제](https://programmers.co.kr/learn/courses/30/lessons/131704) | [코드](./Programmers/Level2/택배상자/Solution.py)
 * <괄호 회전하기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/76502) | [코드](./Programmers/Level2/괄호회전하기/Solution.py)
+* <이진 변환 반복하기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/70129) | [코드](./Programmers/Level2/이진변환반복하기/Solution.py)
 
 </details>
 
