@@ -110,6 +110,7 @@
 * <괄호 회전하기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/76502) | [코드](./Programmers/Level2/괄호회전하기/Solution.py)
 * <이진 변환 반복하기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/70129) | [코드](./Programmers/Level2/이진변환반복하기/Solution.py)
 * <2 x n 타일링> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12900) | [코드](./Programmers/Level2/2xn타일링/Solution.py)
+* <2개 이하로 다른 비트> - [문제](https://programmers.co.kr/learn/courses/30/lessons/77885) | [코드](./Programmers/Level2/2개이하로다른비트/Solution.py)
 
 </details>
 
