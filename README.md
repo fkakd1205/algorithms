@@ -112,6 +112,8 @@
 * <2 x n 타일링> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12900) | [코드](./Programmers/Level2/2xn타일링/Solution.py)
 * <2개 이하로 다른 비트> - [문제](https://programmers.co.kr/learn/courses/30/lessons/77885) | [코드](./Programmers/Level2/2개이하로다른비트/Solution.py)
 * <쿼드압축 후 개수 세기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/68936) | [코드](./Programmers/Level2/쿼드압축후개수세기/Solution.py)
+* <숫자 변환하기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/154538) | [코드](./Programmers/Level2/숫자변환하기/Solution.py)
+* <삼각 달팽이> - [문제](https://programmers.co.kr/learn/courses/30/lessons/68645) | [코드](./Programmers/Level2/삼각달팽이/Solution.py)
 
 </details>
 
