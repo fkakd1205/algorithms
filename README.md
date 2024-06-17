@@ -114,6 +114,8 @@
 * <쿼드압축 후 개수 세기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/68936) | [코드](./Programmers/Level2/쿼드압축후개수세기/Solution.py)
 * <숫자 변환하기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/154538) | [코드](./Programmers/Level2/숫자변환하기/Solution.py)
 * <삼각 달팽이> - [문제](https://programmers.co.kr/learn/courses/30/lessons/68645) | [코드](./Programmers/Level2/삼각달팽이/Solution.py)
+* <연속된 부분수열의 합> - [문제](https://programmers.co.kr/learn/courses/30/lessons/178870) | [코드](./Programmers/Level2/연속된부분수열의합/Solution.py)
+* <두 큐 합 같게 만들기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/118667) | [코드](./Programmers/Level2/두큐합같게만들기/Solution.py)
 
 </details>
 
