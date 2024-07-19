@@ -120,6 +120,7 @@
 * <파일명 정렬> - [문제](https://programmers.co.kr/learn/courses/30/lessons/17686) | [코드](./Programmers/Level2/파일명정렬/Solution.py)
 * <오픈채팅방> - [문제](https://programmers.co.kr/learn/courses/30/lessons/42888) | [코드](./Programmers/Level2/오픈채팅방/Solution.py)
 * <프렌즈4블록> - [문제](https://programmers.co.kr/learn/courses/30/lessons/17679) | [코드](./Programmers/Level2/프렌즈4블록/Solution.py)
+* <행렬 테두리 회전하기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/77485) | [코드](./Programmers/Level2/행렬테두리회전하기/Solution.py)
 
 </details>
 
