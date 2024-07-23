@@ -136,6 +136,7 @@
 * <야근 지수> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12927) | [코드](./Programmers/Level3/야근지수/Solution.py)
 * <기지국 설치> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12979) | [코드](./Programmers/Level3/기지국설치/Solution.py)
 * <스티커모으기(2)> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12971) | [코드](./Programmers/Level3/스티커모으기2/Solution.py)
+* <징검다리 건너기> - [문제](https://programmers.co.kr/learn/courses/30/lessons/64062) | [코드](./Programmers/Level3/징검다리건너기/Solution.py)
 
 </details>
 
@@ -577,7 +578,7 @@
 <details>
 <summary>[0x14] 투 포인터 🏃🏻‍♀️</summary>
 
-* <2230> - [문제](https://www.acmicpc.net/problem/2230) | [코드(Python)](./Baekjoon/0x14/2230/Solution.py) | [코드2(Python)](./Baekjoon/0x14/2230/Solution2.py)
+* <2230> - [문제](https://www.acmicpc.net/problem/2230) | [코드(Python)](./Baekjoon/0x14/2230/Solution.py) | [코드2(Python)](./Baekjoon/0x14/2230/Solution2.py) | [코드3(Python)](./Baekjoon/0x14/2230/Solution3.py)
 * <1806> - [문제](https://www.acmicpc.net/problem/1806) | [코드(Python)](./Baekjoon/0x14/1806/Solution.py) | [코드2(Python)](./Baekjoon/0x14/1806/Solution2.py)
 * <1644> - [문제](https://www.acmicpc.net/problem/1644) | [코드(Python)](./Baekjoon/0x14/1644/Solution.py) | [코드2(Python)](./Baekjoon/0x14/1644/Solution2.py)
 * <2003> - [문제](https://www.acmicpc.net/problem/2003) | [코드(Python)](./Baekjoon/0x14/2003/Solution.py) | [코드2(Python)](./Baekjoon/0x14/2003/Solution2.py)
