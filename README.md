@@ -749,4 +749,19 @@
 * <5052> - [문제](https://www.acmicpc.net/problem/5052) | [코드(Python)](./Baekjoon/0x1F/5052/Solution.py)
 
 </details>
+
 <br />
+
+##### (tony9402 깃허브 [문제집](https://github.com/tony9402/baekjoon) 풀이)
+
+<br />
+
+<details>
+<summary>완전탐색</summary>
+
+* <1548> - [문제](https://www.acmicpc.net/problem/1548) | [코드](./Baekjoon/total/1548/Solution.py)
+* <1025> - [문제](https://www.acmicpc.net/problem/1025) | [코드](./Baekjoon/total/1025/Solution.py)
+
+</details>
+<br />
+
