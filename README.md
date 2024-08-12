@@ -791,5 +791,13 @@
 
 </details>
 
+<details>
+<summary>그리디</summary>
+
+* <20300> - [문제](https://www.acmicpc.net/problem/20300) | [코드](./Baekjoon/total/20300/Solution.py)
+* <13305> - [문제](https://www.acmicpc.net/problem/13305) | [코드](./Baekjoon/total/13305/Solution.py)
+
+</details>
+
 <br />
 
