@@ -797,6 +797,8 @@
 * <20300> - [문제](https://www.acmicpc.net/problem/20300) | [코드](./Baekjoon/total/20300/Solution.py)
 * <13305> - [문제](https://www.acmicpc.net/problem/13305) | [코드](./Baekjoon/total/13305/Solution.py)
 * <1541> - [문제](https://www.acmicpc.net/problem/1541) | [코드](./Baekjoon/total/1541/Solution.py)
+* <1931> - [문제](https://www.acmicpc.net/problem/1931) | [코드](./Baekjoon/total/1931/Solution.py)
+* <21758> - [문제](https://www.acmicpc.net/problem/21758) | [코드](./Baekjoon/total/21758/Solution.py)
 
 </details>
 
