@@ -809,3 +809,12 @@
 
 <br />
 
+<details>
+<summary>이분탐색</summary>
+
+* <1798> - [문제](https://www.acmicpc.net/problem/1798) | [코드](./Baekjoon/total/1798/Solution.py)
+
+</details>
+
+<br />
+
