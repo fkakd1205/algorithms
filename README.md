@@ -813,6 +813,8 @@
 <summary>이분탐색</summary>
 
 * <1798> - [문제](https://www.acmicpc.net/problem/1798) | [코드](./Baekjoon/total/1798/Solution.py)
+* <1654> - [문제](https://www.acmicpc.net/problem/1654) | [코드](./Baekjoon/total/1654/Solution.py)
+* <2805> - [문제](https://www.acmicpc.net/problem/2805) | [코드](./Baekjoon/total/2805/Solution.py)
 
 </details>
 
