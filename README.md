@@ -815,6 +815,14 @@
 * <2805> - [문제](https://www.acmicpc.net/problem/2805) | [코드](./Baekjoon/total/2805/Solution.py)
 * <2512> - [문제](https://www.acmicpc.net/problem/2512) | [코드](./Baekjoon/total/2512/Solution.py)
 * <11663> - [문제](https://www.acmicpc.net/problem/11663) | [코드](./Baekjoon/total/11663/Solution.py)
+* <3079> - [문제](https://www.acmicpc.net/problem/3079) | [코드](./Baekjoon/total/3079/Solution.py)
+
+</details>
+
+<details>
+<summary>투포인터</summary>
+
+* <2470> - [문제](https://www.acmicpc.net/problem/2470) | [코드](./Baekjoon/total/2470/Solution.py)
 
 </details>
 
