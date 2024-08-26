@@ -829,3 +829,17 @@
 </details>
 
 <br />
+
+<br />
+
+##### (Study 알고리즘 풀이)
+
+<br />
+
+<details>
+<summary>study</summary>
+
+* <16234> - [문제](https://www.acmicpc.net/problem/16234) | [코드](./Baekjoon/total/16234/Solution.py)
+* <2580> - [문제](https://www.acmicpc.net/problem/2580) | [코드](./Baekjoon/total/2580/Solution.py)
+
+</details>
