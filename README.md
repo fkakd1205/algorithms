@@ -131,8 +131,8 @@
 <details>
 <summary> 프로그래머스 > 코딩테스트 연습 > Level3 </summary>
 
-* <숫자 게임> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12987) | [코드](./Programmers/Level3/숫자게임/Solution.py) | [코드2](./Programmers/Level3/숫자게임/Solution2.py)
-* <최고의 집합> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12938) | [코드](./Programmers/Level3/최고의집합/Solution.py) | [코드2](./Programmers/Level3/최고의집합/Solution2.py)
+* <숫자 게임> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12987) | [코드](./Programmers/Level3/숫자게임/Solution.py)
+* <최고의 집합> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12938) | [코드](./Programmers/Level3/최고의집합/Solution.py)
 * <야근 지수> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12927) | [코드](./Programmers/Level3/야근지수/Solution.py)
 * <기지국 설치> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12979) | [코드](./Programmers/Level3/기지국설치/Solution.py)
 * <스티커모으기(2)> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12971) | [코드](./Programmers/Level3/스티커모으기2/Solution.py)
@@ -841,5 +841,9 @@
 
 * <16234> - [문제](https://www.acmicpc.net/problem/16234) | [코드](./Baekjoon/total/16234/Solution.py)
 * <2580> - [문제](https://www.acmicpc.net/problem/2580) | [코드](./Baekjoon/total/2580/Solution.py)
+* <숫자 게임> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12987) | [코드](./Programmers/study/숫자게임/Solution.py)
+* <최고의 집합> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12938) | [코드](./Programmers/study/최고의집합/Solution.py)
+* <15654> - [문제](https://www.acmicpc.net/problem/15654) | [코드](./Baekjoon/total/15654/Solution.py)
+* <9251> - [문제](https://www.acmicpc.net/problem/9251) | [코드](./Baekjoon/total/9251/Solution.py)
 
 </details>
