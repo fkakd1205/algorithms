@@ -828,7 +828,12 @@
 
 </details>
 
-<br />
+<details>
+<summary>트리</summary>
+
+* <1991> - [문제](https://www.acmicpc.net/problem/1991) | [코드](./Baekjoon/total/1991/Solution.py)
+
+</details>
 
 <br />
 
