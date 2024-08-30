@@ -852,5 +852,7 @@
 * <최고의 집합> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12938) | [코드](./Programmers/study/최고의집합/Solution.py)
 * <15654> - [문제](https://www.acmicpc.net/problem/15654) | [코드](./Baekjoon/total/15654/Solution.py)
 * <9251> - [문제](https://www.acmicpc.net/problem/9251) | [코드](./Baekjoon/total/9251/Solution.py)
+* <1038> - [문제](https://www.acmicpc.net/problem/1038) | [코드](./Baekjoon/total/1038/Solution.py)
+* <7576> - [문제](https://www.acmicpc.net/problem/7576) | [코드](./Baekjoon/total/7576/Solution.py)
 
 </details>
