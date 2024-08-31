@@ -854,5 +854,6 @@
 * <9251> - [문제](https://www.acmicpc.net/problem/9251) | [코드](./Baekjoon/total/9251/Solution.py)
 * <1038> - [문제](https://www.acmicpc.net/problem/1038) | [코드](./Baekjoon/total/1038/Solution.py)
 * <7576> - [문제](https://www.acmicpc.net/problem/7576) | [코드](./Baekjoon/total/7576/Solution.py)
+* <3584> - [문제](https://www.acmicpc.net/problem/3584) | [코드](./Baekjoon/total/3584/Solution.py)
 
 </details>
