@@ -834,6 +834,9 @@
 * <1991> - [문제](https://www.acmicpc.net/problem/1991) | [코드](./Baekjoon/total/1991/Solution.py)
 * <17073> - [문제](https://www.acmicpc.net/problem/17073) | [코드](./Baekjoon/total/17073/Solution.py)
 * <20924> - [문제](https://www.acmicpc.net/problem/20924) | [코드](./Baekjoon/total/20924/Solution.py)
+* <3584> - [문제](https://www.acmicpc.net/problem/3584) | [코드](./Baekjoon/total/3584/Solution.py)
+* <1967> - [문제](https://www.acmicpc.net/problem/1967) | [코드](./Baekjoon/total/1967/Solution.py)
+
 
 </details>
 
@@ -846,14 +849,13 @@
 <details>
 <summary>study</summary>
 
-* <16234> - [문제](https://www.acmicpc.net/problem/16234) | [코드](./Baekjoon/total/16234/Solution.py)
-* <2580> - [문제](https://www.acmicpc.net/problem/2580) | [코드](./Baekjoon/total/2580/Solution.py)
+* <16234> - [문제](https://www.acmicpc.net/problem/16234) | [코드](./Baekjoon/study/16234/Solution.py)
+* <2580> - [문제](https://www.acmicpc.net/problem/2580) | [코드](./Baekjoon/study/2580/Solution.py)
 * <숫자 게임> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12987) | [코드](./Programmers/study/숫자게임/Solution.py)
 * <최고의 집합> - [문제](https://programmers.co.kr/learn/courses/30/lessons/12938) | [코드](./Programmers/study/최고의집합/Solution.py)
-* <15654> - [문제](https://www.acmicpc.net/problem/15654) | [코드](./Baekjoon/total/15654/Solution.py)
-* <9251> - [문제](https://www.acmicpc.net/problem/9251) | [코드](./Baekjoon/total/9251/Solution.py)
-* <1038> - [문제](https://www.acmicpc.net/problem/1038) | [코드](./Baekjoon/total/1038/Solution.py)
-* <7576> - [문제](https://www.acmicpc.net/problem/7576) | [코드](./Baekjoon/total/7576/Solution.py)
-* <3584> - [문제](https://www.acmicpc.net/problem/3584) | [코드](./Baekjoon/total/3584/Solution.py)
+* <15654> - [문제](https://www.acmicpc.net/problem/15654) | [코드](./Baekjoon/study/15654/Solution.py)
+* <9251> - [문제](https://www.acmicpc.net/problem/9251) | [코드](./Baekjoon/study/9251/Solution.py)
+* <1038> - [문제](https://www.acmicpc.net/problem/1038) | [코드](./Baekjoon/study/1038/Solution.py)
+* <7576> - [문제](https://www.acmicpc.net/problem/7576) | [코드](./Baekjoon/study/7576/Solution.py)
 
 </details>
