@@ -836,6 +836,7 @@
 * <20924> - [문제](https://www.acmicpc.net/problem/20924) | [코드](./Baekjoon/total/20924/Solution.py)
 * <3584> - [문제](https://www.acmicpc.net/problem/3584) | [코드](./Baekjoon/total/3584/Solution.py)
 * <1967> - [문제](https://www.acmicpc.net/problem/1967) | [코드](./Baekjoon/total/1967/Solution.py)
+* <4256> - [문제](https://www.acmicpc.net/problem/4256) | [코드](./Baekjoon/total/4256/Solution.py)
 
 
 </details>
