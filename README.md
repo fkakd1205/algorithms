@@ -860,5 +860,7 @@
 * <7576> - [문제](https://www.acmicpc.net/problem/7576) | [코드](./Baekjoon/study/7576/Solution.py)
 * <1806> - [문제](https://www.acmicpc.net/problem/1806) | [코드](./Baekjoon/study/1806/Solution.py)
 * <2294> - [문제](https://www.acmicpc.net/problem/2294) | [코드](./Baekjoon/study/2294/Solution.py)
+* <3055> - [문제](https://www.acmicpc.net/problem/3055) | [코드](./Baekjoon/study/3055/Solution.py)
+* <경주로 건설> - [문제](https://programmers.co.kr/learn/courses/30/lessons/67259) | [코드](./Programmers/study/경주로건설/Solution.py)
 
 </details>
