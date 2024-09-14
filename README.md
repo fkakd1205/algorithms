@@ -847,6 +847,15 @@
 * <14940> - [문제](https://www.acmicpc.net/problem/14940) | [코드](./Baekjoon/total/14940/Solution.py)
 * <13549> - [문제](https://www.acmicpc.net/problem/13549) | [코드](./Baekjoon/total/13549/Solution.py)
 * <7569> - [문제](https://www.acmicpc.net/problem/7569) | [코드](./Baekjoon/total/7569/Solution.py)
+* <16973> - [문제](https://www.acmicpc.net/problem/16973) | [코드](./Baekjoon/total/16973/Solution.py) 👊🏻 (시간초과)
+
+
+</details>
+
+<details>
+<summary>구현</summary>
+
+* <12933> - [문제](https://www.acmicpc.net/problem/12933) | [코드](./Baekjoon/total/12933/Solution.py)
 
 
 </details>
