@@ -884,5 +884,6 @@
 * <경주로 건설> - [문제](https://programmers.co.kr/learn/courses/30/lessons/67259) | [코드](./Programmers/study/경주로건설/Solution.py)
 * <9466> - [문제](https://www.acmicpc.net/problem/9466) | [코드](./Baekjoon/study/9466/Solution.py)
 * <연속된 부분 수열의 합> - [문제](https://programmers.co.kr/learn/courses/30/lessons/178870) | [코드](./Programmers/study/연속된부분수열의합/Solution.py)
+* <2504> - [문제](https://www.acmicpc.net/problem/2504) | [코드](./Baekjoon/study/2504/Solution.py)
 
 </details>
