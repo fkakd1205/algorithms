@@ -888,5 +888,6 @@
 * <17406> - [문제](https://www.acmicpc.net/problem/17406) | [코드](./Baekjoon/study/17406/Solution.py)
 * <1916> - [문제](https://www.acmicpc.net/problem/1916) | [코드](./Baekjoon/study/1916/Solution.py)
 * <2493> - [문제](https://www.acmicpc.net/problem/2493) | [코드](./Baekjoon/study/2493/Solution.py)
+* <2660> - [문제](https://www.acmicpc.net/problem/2660) | [코드](./Baekjoon/study/2660/Solution.py)
 
 </details>
