@@ -889,5 +889,6 @@
 * <1916> - [문제](https://www.acmicpc.net/problem/1916) | [코드](./Baekjoon/study/1916/Solution.py)
 * <2493> - [문제](https://www.acmicpc.net/problem/2493) | [코드](./Baekjoon/study/2493/Solution.py)
 * <2660> - [문제](https://www.acmicpc.net/problem/2660) | [코드](./Baekjoon/study/2660/Solution.py)
+* <15684> - [문제](https://www.acmicpc.net/problem/15684) | [코드](./Baekjoon/study/15684/Solution.py)
 
 </details>
