@@ -890,5 +890,7 @@
 * <2493> - [문제](https://www.acmicpc.net/problem/2493) | [코드](./Baekjoon/study/2493/Solution.py)
 * <2660> - [문제](https://www.acmicpc.net/problem/2660) | [코드](./Baekjoon/study/2660/Solution.py)
 * <15684> - [문제](https://www.acmicpc.net/problem/15684) | [코드](./Baekjoon/study/15684/Solution.py)
+* <산책> - [문제](https://blog.naver.com/neulbocoach/223199414086) | [코드](./PS_Sample/study/산책/Solution.py)
+* <마리오 게임> - [문제](https://blog.naver.com/neulbocoach/223199414086) | [코드](./PS_Sample/study/마리오게임/Solution.py)
 
 </details>
