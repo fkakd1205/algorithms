@@ -903,5 +903,7 @@
 * <4256> - [문제](https://www.acmicpc.net/problem/4256) | [코드](./Baekjoon/study/4256/Solution.py)
 * <1647> - [문제](https://www.acmicpc.net/problem/1647) | [코드](./Baekjoon/study/1647/Solution.py)
 * <고고학 최고의 발견> - [문제](https://programmers.co.kr/learn/courses/30/lessons/131702) | [코드](./Programmers/study/고고학최고의발견/Solution.py)
+* <8980> - [문제](https://www.acmicpc.net/problem/8980) | [코드](./Baekjoon/study/8980/Solution.py)
+
 
 </details>
