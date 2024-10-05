@@ -906,6 +906,8 @@
 * <8980> - [문제](https://www.acmicpc.net/problem/8980) | [코드](./Baekjoon/study/8980/Solution.py)
 * <11501> - [문제](https://www.acmicpc.net/problem/11501) | [코드](./Baekjoon/study/11501/Solution.py)
 * <11404> - [문제](https://www.acmicpc.net/problem/11404) | [코드](./Baekjoon/study/11404/Solution.py)
+* <trapping-rain-water> - [문제](https://leetcode.com/problems/trapping-rain-water/description/) | [코드](./leetcode/study/trapping-rain-water/Solution.py)
+* <merge-k-sorted-lists> - [문제](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [코드](./leetcode/study/merge-k-sorted-lists/Solution.py)
 
 
 </details>
