@@ -910,6 +910,8 @@
 * <merge-k-sorted-lists> - [문제](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [코드](./leetcode/study/merge-k-sorted-lists/Solution.py)
 * <sliding-window-maximum> - [문제](https://leetcode.com/problems/sliding-window-maximum/description/) | [코드](./leetcode/study/sliding-window-maximum/Solution.py)
 * <1520> - [문제](https://www.acmicpc.net/problem/1520) | [코드](./Baekjoon/study/1520/Solution.py)
+* <11663> - [문제](https://www.acmicpc.net/problem/11663) | [코드](./Baekjoon/study/11663/Solution.py)
+* <14500> - [문제](https://www.acmicpc.net/problem/14500) | [코드](./Baekjoon/study/14500/Solution.py)
 
 
 </details>
