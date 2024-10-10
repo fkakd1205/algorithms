@@ -915,5 +915,6 @@
 * <minimum-window-substring> - [문제](https://leetcode.com/problems/minimum-window-substring/description/) | [코드](./leetcode/study/minimum-window-substring/Solution.py)
 * <largest-rectangle-in-histogram> - [문제](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [코드](./leetcode/study/largest-rectangle-in-histogram/Solution.py)
 * <1074> - [문제](https://www.acmicpc.net/problem/1074) | [코드](./Baekjoon/study/1074/Solution.py)
+* <2110> - [문제](https://www.acmicpc.net/problem/2110) | [코드](./Baekjoon/study/2110/Solution.py)
 
 </details>
