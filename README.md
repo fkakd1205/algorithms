@@ -916,5 +916,9 @@
 * <largest-rectangle-in-histogram> - [문제](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [코드](./leetcode/study/largest-rectangle-in-histogram/Solution.py)
 * <1074> - [문제](https://www.acmicpc.net/problem/1074) | [코드](./Baekjoon/study/1074/Solution.py)
 * <2110> - [문제](https://www.acmicpc.net/problem/2110) | [코드](./Baekjoon/study/2110/Solution.py)
+* <21758> - [문제](https://www.acmicpc.net/problem/21758) | [코드](./Baekjoon/study/21758/Solution.py)
+* <2206> - [문제](https://www.acmicpc.net/problem/2206) | [코드](./Baekjoon/study/2206/Solution.py)
+* <15724> - [문제](https://www.acmicpc.net/problem/15724) | [코드](./Baekjoon/study/15724/Solution.py)
+* <2225> - [문제](https://www.acmicpc.net/problem/2225) | [코드](./Baekjoon/study/2225/Solution.py)
 
 </details>
