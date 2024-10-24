@@ -944,5 +944,7 @@
 * <1011> - [문제](https://www.acmicpc.net/problem/1011) | [코드](./Baekjoon/study/1011/Solution2.py)
 * <merge-two-sorted-linked-lists> - [문제](https://www.hackerrank.com/challenges/one-week-preparation-kit-merge-two-sorted-linked-lists/problem) | [코드](./HackerRank/study/merge-two-sorted-linked-lists/Solution.py)
 * <queue-using-two-stacks> - [문제](https://www.hackerrank.com/challenges/one-week-preparation-kit-queue-using-two-stacks/problem) | [코드](./HackerRank/study/queue-using-two-stacks/Solution.py)
+* <12100> - [문제](https://www.acmicpc.net/problem/12100) | [코드](./Baekjoon/study/12100/Solution2.py)
+* <15988> - [문제](https://www.acmicpc.net/problem/15988) | [코드](./Baekjoon/study/15988/Solution2.py)
 
 </details>
