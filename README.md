@@ -946,5 +946,8 @@
 * <queue-using-two-stacks> - [문제](https://www.hackerrank.com/challenges/one-week-preparation-kit-queue-using-two-stacks/problem) | [코드](./HackerRank/study/queue-using-two-stacks/Solution.py)
 * <12100> - [문제](https://www.acmicpc.net/problem/12100) | [코드](./Baekjoon/study/12100/Solution2.py)
 * <15988> - [문제](https://www.acmicpc.net/problem/15988) | [코드](./Baekjoon/study/15988/Solution2.py)
+* <2302> - [문제](https://www.acmicpc.net/problem/2302) | [코드](./Baekjoon/study/2302/Solution2.py)
+* <14002> - [문제](https://www.acmicpc.net/problem/14002) | [코드](./Baekjoon/study/14002/Solution.py)
+* <1504> - [문제](https://www.acmicpc.net/problem/1504) | [코드](./Baekjoon/study/1504/Solution.py)
 
 </details>
