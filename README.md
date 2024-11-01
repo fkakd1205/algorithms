@@ -958,5 +958,7 @@
 * <17298> - [문제](https://www.acmicpc.net/problem/17298) | [코드](./Baekjoon/study/17298/Solution.py)
 * <11729> - [문제](https://www.acmicpc.net/problem/11729) | [코드](./Baekjoon/study/11729/Solution.py)
 * <6588> - [문제](https://www.acmicpc.net/problem/6588) | [코드](./Baekjoon/study/6588/Solution.py)
+* <9935> - [문제](https://www.acmicpc.net/problem/9935) | [코드](./Baekjoon/study/9935/Solution.py)
+* <1520> - [문제](https://www.acmicpc.net/problem/1520) | [코드](./Baekjoon/study/1520/Solution2.py)
 
 </details>
