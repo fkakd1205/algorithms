@@ -972,5 +972,7 @@
 * <2294> - [문제](https://www.acmicpc.net/problem/2294) | [코드](./Baekjoon/study/2294/Solution2.py)
 * <7662> - [문제](https://www.acmicpc.net/problem/7662) | [코드](./Baekjoon/study/7662/Solution2.py)
 * <6064> - [문제](https://www.acmicpc.net/problem/6064) | [코드](./Baekjoon/study/6064/Solution2.py)
+* <16234> - [문제](https://www.acmicpc.net/problem/16234) | [코드](./Baekjoon/study/16234/Solution2.py)
+* <1715> - [문제](https://www.acmicpc.net/problem/1715) | [코드](./Baekjoon/study/1715/Solution.py)
 
 </details>
