@@ -977,5 +977,6 @@
 * <10026> - [문제](https://www.acmicpc.net/problem/10026) | [코드](./Baekjoon/study/10026/Solution.py)
 * <15684> - [문제](https://www.acmicpc.net/problem/15684) | [코드](./Baekjoon/study/15684/Solution2.py)
 * <2293> - [문제](https://www.acmicpc.net/problem/2293) | [코드](./Baekjoon/study/2293/Solution3.py)
+* <16236> - [문제](https://www.acmicpc.net/problem/16236) | [코드](./Baekjoon/study/16236/Solution3.py)
 
 </details>
