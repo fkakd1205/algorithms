@@ -1002,5 +1002,6 @@
 * <13023> - [문제](https://www.acmicpc.net/problem/13023) | [코드](./Baekjoon/study/13023/Solution.py)
 * <11054> - [문제](https://www.acmicpc.net/problem/11054) | [코드](./Baekjoon/study/11054/Solution.py)
 * <3055> - [문제](https://www.acmicpc.net/problem/3055) | [코드](./Baekjoon/study/3055/Solution2.py)
+* <2252> - [문제](https://www.acmicpc.net/problem/2252) | [코드](./Baekjoon/study/2252/Solution.py)
 
 </details>
