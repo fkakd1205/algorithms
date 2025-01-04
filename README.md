@@ -1004,5 +1004,6 @@
 * <3055> - [문제](https://www.acmicpc.net/problem/3055) | [코드](./Baekjoon/study/3055/Solution2.py)
 * <2252> - [문제](https://www.acmicpc.net/problem/2252) | [코드](./Baekjoon/study/2252/Solution.py)
 * <11000> - [문제](https://www.acmicpc.net/problem/11000) | [코드](./Baekjoon/study/11000/Solution.py)
+* <15683> - [문제](https://www.acmicpc.net/problem/15683) | [코드](./Baekjoon/study/15683/Solution.py)
 
 </details>
